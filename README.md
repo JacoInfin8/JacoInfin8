@@ -138,16 +138,25 @@ licensing, packaging, and creator-focused workflows.
 </table>
 
 <p align="center">
-  <img src="assets/network-checker.png" alt="Network Checker monitoring utility" width="760">
+  <img src="assets/network-checker.png" alt="Infin8 Network Sentinel purple and cyan monitoring dashboard" width="900">
 </p>
 
-### Network Checker
+### Network Checker / Infin8 Network Sentinel
 
-A focused CLI and GUI utility for live throughput, connection events, traffic
-direction, and process attribution—built as a compact example of clear
-operational visibility.
+An explainable local network diagnostics and cyber-hygiene workspace that
+correlates live throughput, process-attributed endpoints, listening services,
+connection state, hardware and adapter layers, packet health, and safe DNS and
+outbound-route checks.
 
-**Built with:** Python, `psutil`, Tkinter, event tracking, and automated tests.
+Risk-ranked connections include the reason behind each signal, while loopback
+and normal dynamic-service patterns are handled conservatively to reduce noise.
+The application observes operating-system metadata and counters without
+inspecting payloads or presenting heuristic findings as proof of malicious
+activity.
+
+**Built with:** Python, `psutil`, Tkinter, IPv4/IPv6 endpoint parsing,
+threaded diagnostics, explainable heuristic scoring, CLI/JSON integration,
+PyInstaller packaging, and automated tests.
 
 > Yaco Trader is an R&D system, not financial advice or a promise of trading
 > performance. Paper simulation is its intended evaluation path.
