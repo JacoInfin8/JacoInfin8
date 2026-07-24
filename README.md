@@ -9,8 +9,8 @@
 
 ### Product engineer and creator of Infin8 Apps
 
-I design and build local-first software across AI, creative production,
-Windows systems, browser automation, and applied research.
+I design and build local-first software across realtime audio, AI, creative
+production, Windows systems, browser automation, and applied research.
 
 [Featured products](#featured-products) ·
 [Engineering focus](#engineering-focus) ·
@@ -28,15 +28,52 @@ automation, and operational safety. My projects begin with workflows I
 understand firsthand and grow into focused tools that make technically complex
 work clearer, faster, and safer.
 
-Today, that work lives under **Infin8 Apps**: a private portfolio of independent
-Windows applications, browser tools, and intelligent workflow systems prepared
-for employer, partner, and investor review.
+Today, that work lives under **Infin8 Apps**: a portfolio of production audio
+software, independent Windows applications, browser tools, and intelligent
+workflow systems prepared for employer, partner, and investor review.
 
 > **Available for:** product engineering opportunities, technical
 > collaborations, private portfolio demonstrations, and investment
 > conversations.
 
 ## Featured products
+
+### Flagship audio products
+
+These are my two most developed products: end-to-end Windows audio applications
+that combine realtime processing, embedded interfaces, persistent state,
+licensing, packaging, and creator-focused workflows.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/infin8-micpre.png" alt="Infin8 MicPre vocal production interface" width="100%">
+      <h3>Infin8 MicPre</h3>
+      <p><strong>A complete vocal front end in one focused workspace.</strong></p>
+      <p>Brings gain staging, cleanup, dynamics, tone shaping, output safety,
+      vocal effects, parametric EQ, and a performance soundboard into one
+      coherent signal path for music, streaming, podcasting, and voiceover.</p>
+      <p><strong>Engineering:</strong> realtime C++ DSP, iPlug2, WebView2,
+      host automation, metering, MIDI input, preset serialization, shared
+      licensing, and standalone/VST3 packaging.</p>
+      <p><em>Private product demonstration and technical walkthrough available.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/infin8-voice-mod.png" alt="Infin8 Voice Mod realtime voice transformation interface" width="100%">
+      <h3>Infin8 Voice Mod</h3>
+      <p><strong>Realtime voice transformation with an end-to-end voice workflow.</strong></p>
+      <p>Turns local trained voice packages into a playable production tool
+      with voice-library management, live conversion controls, device routing,
+      complete preset recall, runtime configuration, and assisted training.</p>
+      <p><strong>Engineering:</strong> native C++/iPlug2 host, embedded
+      WebView2 UI, RVC model-runtime orchestration, GPU profiles, device
+      fallback, latency telemetry, content packaging, and shared licensing.</p>
+      <p><em>Private product demonstration and technical walkthrough available.</em></p>
+    </td>
+  </tr>
+</table>
+
+### More products
 
 <table>
   <tr>
@@ -120,7 +157,8 @@ operational visibility.
 | Focus | What it means in my work |
 | --- | --- |
 | **Local-first AI** | Capable inference, speech recognition, alignment, and computer vision running on the user's workstation whenever practical. |
-| **Native desktop software** | Purpose-built Qt and PyQt interfaces integrated with Windows, local hardware, processes, registries, and services. |
+| **Realtime audio products** | Native DSP, low-latency routing, model-runtime orchestration, metering, preset recall, and standalone/VST3 delivery. |
+| **Native desktop software** | Purpose-built C++, Qt, PyQt, and embedded WebView interfaces integrated with Windows, local hardware, processes, registries, and services. |
 | **Creative automation** | Human-in-the-loop workflows that accelerate repetitive production work without taking creative control away from the operator. |
 | **Safety by design** | Source copies, paper modes, dry runs, bounded workloads, scan-only diagnostics, and explicit user actions around real systems. |
 | **Observable operations** | Progress, logs, intermediate artifacts, persistence, diagnostics, and repeatable validation paths instead of hidden automation. |
@@ -145,11 +183,14 @@ operational visibility.
 ### Applied AI and integration
 
 `llama.cpp` · `Ollama` · `OptiLLM` · `Whisper` · `CTranslate2` · `Demucs` ·
-`MediaPipe` · `TensorFlow Lite` · `WebSockets` · `Direct3D 11` ·
+`MediaPipe` · `TensorFlow Lite` · `RVC` · `iPlug2` · `WebView2` · `VST3` ·
+`Realtime audio DSP` · `WebSockets` · `Direct3D 11` ·
 `Adobe Premiere automation` · `Browser extensions`
 
 ## What I'm focused on now
 
+- Advancing Infin8 MicPre and Infin8 Voice Mod as production-ready audio
+  products.
 - Advancing private, GPU-aware desktop AI experiences.
 - Turning specialized creative workflows into reliable guided products.
 - Building native Windows diagnostics that explain before they change.
