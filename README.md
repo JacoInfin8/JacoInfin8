@@ -47,7 +47,7 @@ licensing, packaging, and creator-focused workflows.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/infin8-micpre.png" alt="Infin8 MicPre vocal production interface" width="100%">
+      <img src="assets/infin8-micpre-20260725.png" alt="Infin8 MicPre vocal production interface" width="100%">
       <h3>Infin8 MicPre</h3>
       <p><strong>A complete vocal front end in one focused workspace.</strong></p>
       <p>Brings gain staging, cleanup, dynamics, tone shaping, output safety,
