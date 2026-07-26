@@ -38,16 +38,17 @@ workflow systems prepared for employer, partner, and investor review.
 
 ## Featured products
 
-### Flagship audio products
+### Infin8 Suite audio products
 
-These are my two most developed products: end-to-end Windows audio applications
-that combine realtime processing, embedded interfaces, persistent state,
-licensing, packaging, and creator-focused workflows.
+Infin8 Suite is a six-product Windows audio ecosystem for capture, correction,
+voice transformation, performance, synthesis, and sound design. Every product
+combines native realtime processing with a consistent embedded interface,
+persistent state, shared licensing, and creator-focused workflows.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/infin8-micpre-20260725.png" alt="Infin8 MicPre vocal production interface" width="100%">
+      <img src="assets/infin8-micpre.png" alt="Infin8 MicPre vocal production interface" width="100%">
       <h3>Infin8 MicPre</h3>
       <p><strong>A complete vocal front end in one focused workspace.</strong></p>
       <p>Brings gain staging, cleanup, dynamics, tone shaping, output safety,
@@ -59,6 +60,19 @@ licensing, packaging, and creator-focused workflows.
       <p><em>Private product demonstration and technical walkthrough available.</em></p>
     </td>
     <td width="50%" valign="top">
+      <img src="assets/infin8-tune.png" alt="Infin8 Tune realtime vocal correction interface" width="100%">
+      <h3>Infin8 Tune</h3>
+      <p><strong>Realtime vocal correction built for musical control.</strong></p>
+      <p>Combines key-and-scale targeting, correction style, pitch motion,
+      live tracking feedback, character effects, and flexible monitoring for
+      live performance and detailed studio adjustment.</p>
+      <p><strong>Engineering:</strong> realtime pitch analysis and correction,
+      C++ DSP, iPlug2, WebView2, host automation, metering, preset recall, and
+      standalone/VST3 packaging.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <img src="assets/infin8-voice-mod.png" alt="Infin8 Voice Mod realtime voice transformation interface" width="100%">
       <h3>Infin8 Voice Mod</h3>
       <p><strong>Realtime voice transformation with an end-to-end voice workflow.</strong></p>
@@ -69,6 +83,39 @@ licensing, packaging, and creator-focused workflows.
       WebView2 UI, RVC model-runtime orchestration, GPU profiles, device
       fallback, latency telemetry, content packaging, and shared licensing.</p>
       <p><em>Private product demonstration and technical walkthrough available.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/infin8-vox.png" alt="Infin8 Vox voice-to-MIDI interface" width="100%">
+      <h3>Infin8 Vox</h3>
+      <p><strong>Turn vocal performance into MIDI expression.</strong></p>
+      <p>Detects vocal pitch within a defined musical range and maps singing
+      and humming into playable MIDI for instruments, arrangements, and live
+      performance systems.</p>
+      <p><strong>Engineering:</strong> realtime pitch tracking, MIDI output,
+      C++ DSP, iPlug2, WebView2, host automation, presets, and standalone/VST3
+      delivery.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/infin8-synth.png" alt="Infin8 Synth instrument interface" width="100%">
+      <h3>Infin8 Synth</h3>
+      <p><strong>A playable synthesis engine with a tempo-aware sample layer.</strong></p>
+      <p>Combines oscillators, filtering, envelopes, modulation, performance
+      controls, and sample playback for fast, layered sound design.</p>
+      <p><strong>Engineering:</strong> polyphonic C++ synthesis, modulation
+      routing, tempo-aware playback, iPlug2, WebView2, preset state, and
+      standalone/VST3 packaging.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/infin8-effects.png" alt="Infin8 Effects sound-processing interface" width="100%">
+      <h3>Infin8 Effects</h3>
+      <p><strong>Sculpt, move, and finish sound in one effects environment.</strong></p>
+      <p>Joins dynamics, saturation, limiting, modulation, space, delay, and
+      an eight-band parametric EQ in a clear left-to-right creative chain.</p>
+      <p><strong>Engineering:</strong> modular realtime C++ DSP, iPlug2,
+      WebView2, host automation, visual metering, preset serialization, and
+      standalone/VST3 delivery.</p>
     </td>
   </tr>
 </table>
