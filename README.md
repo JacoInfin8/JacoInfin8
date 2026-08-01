@@ -124,6 +124,24 @@ persistent state, shared licensing, and creator-focused workflows.
 
 <table>
   <tr>
+    <td colspan="2" width="100%" valign="top">
+      <img src="assets/infin8-assistant.png" alt="Infin8 Assistant local AI work and project control panel" width="100%">
+      <h3>Infin8 Assistant — Local AI Development Control Panel</h3>
+      <p><strong>A private, free-to-run local AI assistant for conversation,
+      focused work, and complete project oversight.</strong></p>
+      <p>Infin8 Assistant brings natural text and voice conversations into a
+      unified desktop workspace for managing projects, applications, tasks,
+      work sessions, calendars, notes, releases, repository health, and local
+      development services. It can search registered project knowledge,
+      explain current work, help plan next actions, and carry out supported
+      updates through explicit approval controls—while keeping models, speech,
+      operational data, and source context on the user's own computer.</p>
+      <p><strong>Built with:</strong> Tauri, Rust, React, TypeScript, SQLite,
+      Ollama, Whisper speech recognition, Kokoro text-to-speech, Windows audio
+      routing, Git integration, and approval-gated assistant tools.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/yaco-assistant.png" alt="Yaco Assistant desktop application" width="100%">
       <h3>Yaco Assistant</h3>
