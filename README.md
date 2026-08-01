@@ -40,9 +40,9 @@ workflow systems prepared for employer, partner, and investor review.
 
 ### Infin8 Suite audio products
 
-Infin8 Suite is a six-product Windows audio ecosystem for capture, correction,
-voice transformation, performance, synthesis, and sound design. Every product
-combines native realtime processing with a consistent embedded interface,
+The four primary Infin8 Suite products form a focused Windows audio ecosystem
+for vocal production, correction, voice transformation, and sound design.
+Each combines native realtime processing with a consistent embedded interface,
 persistent state, shared licensing, and creator-focused workflows.
 
 <table>
@@ -85,29 +85,6 @@ persistent state, shared licensing, and creator-focused workflows.
       <p><em>Private product demonstration and technical walkthrough available.</em></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/infin8-vox.png" alt="Infin8 Vox voice-to-MIDI interface" width="100%">
-      <h3>Infin8 Vox</h3>
-      <p><strong>Turn vocal performance into MIDI expression.</strong></p>
-      <p>Detects vocal pitch within a defined musical range and maps singing
-      and humming into playable MIDI for instruments, arrangements, and live
-      performance systems.</p>
-      <p><strong>Engineering:</strong> realtime pitch tracking, MIDI output,
-      C++ DSP, iPlug2, WebView2, host automation, presets, and standalone/VST3
-      delivery.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/infin8-synth.png" alt="Infin8 Synth instrument interface" width="100%">
-      <h3>Infin8 Synth</h3>
-      <p><strong>A playable synthesis engine with a tempo-aware sample layer.</strong></p>
-      <p>Combines oscillators, filtering, envelopes, modulation, performance
-      controls, and sample playback for fast, layered sound design.</p>
-      <p><strong>Engineering:</strong> polyphonic C++ synthesis, modulation
-      routing, tempo-aware playback, iPlug2, WebView2, preset state, and
-      standalone/VST3 packaging.</p>
-    </td>
-    <td width="50%" valign="top">
       <img src="assets/infin8-effects.png" alt="Infin8 Effects sound-processing interface" width="100%">
       <h3>Infin8 Effects</h3>
       <p><strong>Sculpt, move, and finish sound in one effects environment.</strong></p>
@@ -139,6 +116,29 @@ persistent state, shared licensing, and creator-focused workflows.
       <p><strong>Built with:</strong> Tauri, Rust, React, TypeScript, SQLite,
       Ollama, Whisper speech recognition, Kokoro text-to-speech, Windows audio
       routing, Git integration, and approval-gated assistant tools.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/infin8-synth.png" alt="Infin8 Synth instrument interface" width="100%">
+      <h3>Infin8 Synth</h3>
+      <p><strong>A developing synthesis engine with a tempo-aware sample layer.</strong></p>
+      <p>Combines oscillators, filtering, envelopes, modulation, performance
+      controls, and sample playback for fast, layered sound design.</p>
+      <p><strong>Engineering:</strong> polyphonic C++ synthesis, modulation
+      routing, tempo-aware playback, iPlug2, WebView2, preset state, and
+      standalone/VST3 packaging.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/infin8-vox.png" alt="Infin8 Vox voice-to-MIDI interface" width="100%">
+      <h3>Infin8 Vox</h3>
+      <p><strong>A developing voice-to-MIDI system for musical expression.</strong></p>
+      <p>Detects vocal pitch within a defined musical range and maps singing
+      and humming into playable MIDI for instruments, arrangements, and live
+      performance systems.</p>
+      <p><strong>Engineering:</strong> realtime pitch tracking, MIDI output,
+      C++ DSP, iPlug2, WebView2, host automation, presets, and standalone/VST3
+      delivery.</p>
     </td>
   </tr>
   <tr>
