@@ -119,6 +119,30 @@ persistent state, shared licensing, and creator-focused workflows.
     </td>
   </tr>
   <tr>
+    <td colspan="2" width="100%" valign="top">
+      <img src="assets/infin8-editor.png" alt="Infin8 Editor local-first AI video editing studio" width="100%">
+      <h3>Infin8 Editor — AI-Assisted Video Creation Studio</h3>
+      <p><strong>A local-first editing workspace for creating, adapting, and
+      finishing videos across widescreen and social formats.</strong></p>
+      <p>Infin8 Editor combines a native multitrack timeline, media and
+      Premiere project import, smart file relinking, captions, titles, looks,
+      audio controls, live preview, and H.264 export in one standalone Windows
+      application. Canvas presets and reusable project workflows make it
+      possible to produce 16:9 widescreen videos alongside portrait shorts,
+      vertical reels, square posts, lyric videos, music videos, and promotional
+      content without rebuilding each format from scratch.</p>
+      <p>Its AI editing layer can use a private local Ollama model or an
+      optional OpenAI connection to plan first cuts and apply validated,
+      undoable timeline commands. Source projects and media remain under user
+      control, imported Premiere projects are never overwritten, and generated
+      code is never executed.</p>
+      <p><strong>Built with:</strong> Electron, React, TypeScript, Remotion,
+      Mediabunny, local Ollama integration, optional OpenAI assistance,
+      Premiere timeline migration, sandboxed media handling, and deterministic
+      video rendering.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/infin8-synth.png" alt="Infin8 Synth instrument interface" width="100%">
       <h3>Infin8 Synth</h3>
@@ -143,13 +167,17 @@ persistent state, shared licensing, and creator-focused workflows.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/yaco-assistant.png" alt="Yaco Assistant desktop application" width="100%">
-      <h3>Yaco Assistant</h3>
-      <p>A local desktop AI workspace for private chat, coding, tool use, and
-      optional inference-time reasoning across optimized local model
-      runtimes.</p>
-      <p><strong>Built with:</strong> C++17, Qt 6, Python, CUDA, llama.cpp,
-      Ollama, and OptiLLM.</p>
+      <img src="assets/voice-addition.png" alt="Infin8 Voice Addition local AI voice-over application" width="100%">
+      <h3>Infin8 Voice Addition</h3>
+      <p><strong>Turn a finished script into a polished local AI voice-over.</strong></p>
+      <p>Converts written narration into WAV audio with selectable voices,
+      speech speed, sentence and paragraph timing, final loudness
+      normalization, playback, and direct access to completed output. After
+      the initial free model download, voice generation runs locally on the
+      user's Windows computer.</p>
+      <p><strong>Built with:</strong> Python, PySide6, Kokoro, Misaki, PyTorch,
+      local model caching, audio normalization, and verified standalone
+      packaging.</p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/premiere-lyric-tool.png" alt="Premiere Lyric Tool production workflow" width="100%">
