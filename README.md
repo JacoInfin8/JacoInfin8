@@ -1,95 +1,95 @@
 <div align="center">
 
 <p>
-  <img src="assets/infin8-apps-poster.png" alt="Infin8 Apps brand promotion" width="30%">
-  <img src="assets/infin8-apps-hero.png" alt="Infin8 Apps — local-first software and intelligent automation" width="68%">
+  <img src="assets/infin8-apps-poster.png" alt="Infin8 Apps brand" width="30%">
+  <img src="assets/infin8-apps-hero.png" alt="Infin8 Apps local-first software and intelligent automation" width="68%">
 </p>
 
 # Hi, I'm Jaco
 
-### Product engineer and creator of Infin8 Apps
+### Product engineer · Local AI developer · Audio and creative-software builder
 
-I design and build local-first software across realtime audio, AI, creative
-production, Windows systems, browser automation, and applied research.
+I design complete Windows products that combine native performance, practical
+AI, thoughtful interfaces, and safe automation.
 
-[Featured products](#featured-products) ·
-[Engineering focus](#engineering-focus) ·
-[Technology](#technology) ·
-[Let's connect](#lets-connect)
+[Featured work](#featured-work) · [Skills](#skills-and-engineering-focus) ·
+[Current focus](#what-im-building-now) · [Connect](#lets-connect)
 
 </div>
 
 ---
 
-## Building useful software from idea to working product
+## Building useful software from idea to release
 
-I work across product design, native desktop engineering, AI integration,
-automation, and operational safety. My projects begin with workflows I
-understand firsthand and grow into focused tools that make technically complex
-work clearer, faster, and safer.
+I build under **Infin8 Apps**, with hands-on ownership across product design,
+architecture, implementation, testing, packaging, and technical presentation.
+My work spans realtime audio, local AI assistants, AI-assisted video creation,
+Windows diagnostics, speech systems, browser automation, and computer vision.
 
-Today, that work lives under **Infin8 Apps**: a portfolio of production audio
-software, independent Windows applications, browser tools, and intelligent
-workflow systems prepared for employer, partner, and investor review.
+The common goal is simple: turn technically difficult workflows into software
+that people can understand, control, and use on their own computers.
 
-> **Available for:** product engineering opportunities, technical
-> collaborations, private portfolio demonstrations, and investment
-> conversations.
+| Area | What I build |
+| --- | --- |
+| **Local AI** | Private assistants, voice conversations, tool use, project knowledge, speech recognition, and local model orchestration. |
+| **AI video systems** | AI-assisted editing, format adaptation, timeline automation, YOLO detection/tracking, and locally optimized `.pt`, `.onnx`, and TensorRT `.engine` inference. |
+| **Realtime audio** | Native DSP, voice transformation, vocal production, pitch processing, MIDI, metering, and standalone/VST3 delivery. |
+| **Windows products** | C++, Rust, Qt, Tauri, Electron, React, Python, WebView2, local services, packaging, and hardware-aware tools. |
 
-## Featured products
+> **Open to:** product-engineering opportunities, technical collaboration,
+> private demonstrations, partnerships, and investment conversations.
 
-### Infin8 Suite audio products
+## Featured work
 
-The four primary Infin8 Suite products form a focused Windows audio ecosystem
-for vocal production, correction, voice transformation, and sound design.
-Each combines native realtime processing with a consistent embedded interface,
-persistent state, shared licensing, and creator-focused workflows.
+### Infin8 Suite — flagship audio products
+
+These are the four primary Infin8 Suite products: focused Windows audio tools
+with native realtime processing, embedded interfaces, persistent state, shared
+licensing, and repeatable standalone/VST3 packaging.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <img src="assets/infin8-micpre.png" alt="Infin8 MicPre vocal production interface" width="100%">
       <h3>Infin8 MicPre</h3>
-      <p><strong>A complete vocal front end in one focused workspace.</strong></p>
-      <p>Brings gain staging, cleanup, dynamics, tone shaping, output safety,
-      vocal effects, parametric EQ, and a performance soundboard into one
-      coherent signal path for music, streaming, podcasting, and voiceover.</p>
+      <p><strong>A complete vocal front end in one workspace.</strong></p>
+      <p>Combines gain staging, cleanup, dynamics, tone shaping, output safety,
+      vocal effects, parametric EQ, and a performance soundboard for music,
+      streaming, podcasting, and voiceover.</p>
       <p><strong>Engineering:</strong> realtime C++ DSP, iPlug2, WebView2,
-      host automation, metering, MIDI input, preset serialization, shared
-      licensing, and standalone/VST3 packaging.</p>
-      <p><em>Private product demonstration and technical walkthrough available.</em></p>
+      MIDI, metering, host automation, preset state, licensing, and
+      standalone/VST3 delivery.</p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/infin8-tune.png" alt="Infin8 Tune realtime vocal correction interface" width="100%">
       <h3>Infin8 Tune</h3>
-      <p><strong>Realtime vocal correction built for musical control.</strong></p>
-      <p>Combines key-and-scale targeting, correction style, pitch motion,
-      live tracking feedback, character effects, and flexible monitoring for
-      live performance and detailed studio adjustment.</p>
+      <p><strong>Realtime vocal correction with musical control.</strong></p>
+      <p>Provides key-and-scale targeting, correction character, pitch-motion
+      controls, live tracking feedback, vocal effects, and flexible monitoring
+      for performance and studio use.</p>
       <p><strong>Engineering:</strong> realtime pitch analysis and correction,
-      C++ DSP, iPlug2, WebView2, host automation, metering, preset recall, and
-      standalone/VST3 packaging.</p>
+      C++ DSP, iPlug2, WebView2, automation, metering, preset recall, and
+      standalone/VST3 delivery.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="assets/infin8-voice-mod.png" alt="Infin8 Voice Mod realtime voice transformation interface" width="100%">
       <h3>Infin8 Voice Mod</h3>
-      <p><strong>Realtime voice transformation with an end-to-end voice workflow.</strong></p>
-      <p>Turns local trained voice packages into a playable production tool
-      with voice-library management, live conversion controls, device routing,
-      complete preset recall, runtime configuration, and assisted training.</p>
-      <p><strong>Engineering:</strong> native C++/iPlug2 host, embedded
-      WebView2 UI, RVC model-runtime orchestration, GPU profiles, device
-      fallback, latency telemetry, content packaging, and shared licensing.</p>
-      <p><em>Private product demonstration and technical walkthrough available.</em></p>
+      <p><strong>Realtime voice transformation with a complete local workflow.</strong></p>
+      <p>Turns trained voice packages into a usable production system with
+      voice-library management, conversion controls, device routing, presets,
+      runtime configuration, telemetry, and assisted model training.</p>
+      <p><strong>Engineering:</strong> native C++ host, iPlug2, WebView2, RVC,
+      PyTorch and ONNX runtimes, GPU profiles, device fallback, content
+      packaging, and shared licensing.</p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/infin8-effects.png" alt="Infin8 Effects sound-processing interface" width="100%">
       <h3>Infin8 Effects</h3>
       <p><strong>Sculpt, move, and finish sound in one effects environment.</strong></p>
-      <p>Joins dynamics, saturation, limiting, modulation, space, delay, and
-      an eight-band parametric EQ in a clear left-to-right creative chain.</p>
+      <p>Brings dynamics, saturation, limiting, modulation, space, delay, and
+      an eight-band parametric EQ into a clear creative signal chain.</p>
       <p><strong>Engineering:</strong> modular realtime C++ DSP, iPlug2,
       WebView2, host automation, visual metering, preset serialization, and
       standalone/VST3 delivery.</p>
@@ -97,95 +97,88 @@ persistent state, shared licensing, and creator-focused workflows.
   </tr>
 </table>
 
-### More products
+### Priority AI and creative products
 
 <table>
   <tr>
     <td colspan="2" width="100%" valign="top">
       <img src="assets/infin8-assistant.png" alt="Infin8 Assistant local AI work and project control panel" width="100%">
       <h3>Infin8 Assistant — Local AI Development Control Panel</h3>
-      <p><strong>A private, free-to-run local AI assistant for conversation,
-      focused work, and complete project oversight.</strong></p>
-      <p>Infin8 Assistant brings natural text and voice conversations into a
-      unified desktop workspace for managing projects, applications, tasks,
-      work sessions, calendars, notes, releases, repository health, and local
-      development services. It can search registered project knowledge,
-      explain current work, help plan next actions, and carry out supported
-      updates through explicit approval controls—while keeping models, speech,
-      operational data, and source context on the user's own computer.</p>
+      <p><strong>A private, free-to-run local assistant for conversation,
+      focused work, and project oversight.</strong></p>
+      <p>Infin8 Assistant combines natural text and voice conversations with
+      projects, applications, tasks, work sessions, calendars, notes, releases,
+      repository health, and local development services. It searches registered
+      project knowledge, explains current work, helps plan next actions, and
+      performs supported updates through explicit approval controls.</p>
+      <p>Models, speech, operational records, and source context can remain on
+      the user's machine through Ollama, Whisper, Kokoro, and local SQLite
+      storage.</p>
       <p><strong>Built with:</strong> Tauri, Rust, React, TypeScript, SQLite,
-      Ollama, Whisper speech recognition, Kokoro text-to-speech, Windows audio
-      routing, Git integration, and approval-gated assistant tools.</p>
+      Ollama, Whisper, Kokoro, Git integration, Windows audio routing, and
+      approval-gated assistant tools.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
       <img src="assets/infin8-editor.png" alt="Infin8 Editor local-first AI video editing studio" width="100%">
       <h3>Infin8 Editor — AI-Assisted Video Creation Studio</h3>
-      <p><strong>A local-first editing workspace for creating, adapting, and
-      finishing videos across widescreen and social formats.</strong></p>
-      <p>Infin8 Editor combines a native multitrack timeline, media and
-      Premiere project import, smart file relinking, captions, titles, looks,
-      audio controls, live preview, and H.264 export in one standalone Windows
-      application. Canvas presets and reusable project workflows make it
-      possible to produce 16:9 widescreen videos alongside portrait shorts,
-      vertical reels, square posts, lyric videos, music videos, and promotional
-      content without rebuilding each format from scratch.</p>
-      <p>Its AI editing layer can use a private local Ollama model or an
-      optional OpenAI connection to plan first cuts and apply validated,
-      undoable timeline commands. Source projects and media remain under user
-      control, imported Premiere projects are never overwritten, and generated
-      code is never executed.</p>
+      <p><strong>Create, adapt, and finish widescreen and social video from one
+      local-first editing workspace.</strong></p>
+      <p>Infin8 Editor combines a multitrack timeline, video and Premiere
+      project import, smart media relinking, captions, titles, looks, audio
+      controls, live preview, project persistence, and H.264 export. Canvas
+      presets support 16:9 widescreen, portrait shorts, vertical reels, square
+      posts, lyric videos, music videos, and promotional content.</p>
+      <p>Its AI layer can use local Ollama or an optional OpenAI connection to
+      plan first cuts and apply validated, undoable timeline commands. Imported
+      Premiere projects are never overwritten and generated code is never
+      executed.</p>
       <p><strong>Built with:</strong> Electron, React, TypeScript, Remotion,
-      Mediabunny, local Ollama integration, optional OpenAI assistance,
-      Premiere timeline migration, sandboxed media handling, and deterministic
-      video rendering.</p>
+      Mediabunny, Ollama, optional OpenAI assistance, Premiere migration,
+      sandboxed media handling, and deterministic rendering.</p>
+    </td>
+  </tr>
+</table>
+
+### More products and applied systems
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/voice-addition.png" alt="Infin8 Voice Addition local AI voice-over application" width="100%">
+      <h3>Infin8 Voice Addition</h3>
+      <p>Turns scripts into local AI voice-over WAV files with voice selection,
+      pacing controls, loudness normalization, playback, and verified
+      standalone packaging.</p>
+      <p><strong>Built with:</strong> Python, PySide6, Kokoro, Misaki, PyTorch,
+      local model caching, and audio normalization.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/premiere-lyric-tool.png" alt="Premiere Lyric Tool production workflow" width="100%">
+      <h3>Premiere Lyric Tool</h3>
+      <p>Transforms audio into reviewed, time-aligned lyrics and a safely copied
+      Adobe Premiere project ready for caption styling and export.</p>
+      <p><strong>Built with:</strong> Python, PyQt6, Whisper, CTranslate2,
+      Demucs, forced alignment, and SRT automation.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="assets/infin8-synth.png" alt="Infin8 Synth instrument interface" width="100%">
       <h3>Infin8 Synth</h3>
-      <p><strong>A developing synthesis engine with a tempo-aware sample layer.</strong></p>
-      <p>Combines oscillators, filtering, envelopes, modulation, performance
-      controls, and sample playback for fast, layered sound design.</p>
-      <p><strong>Engineering:</strong> polyphonic C++ synthesis, modulation
-      routing, tempo-aware playback, iPlug2, WebView2, preset state, and
+      <p>A developing polyphonic synthesis and tempo-aware sample system with
+      modulation, performance controls, and preset state.</p>
+      <p><strong>Built with:</strong> C++ DSP, iPlug2, WebView2, MIDI, and
       standalone/VST3 packaging.</p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/infin8-vox.png" alt="Infin8 Vox voice-to-MIDI interface" width="100%">
       <h3>Infin8 Vox</h3>
-      <p><strong>A developing voice-to-MIDI system for musical expression.</strong></p>
-      <p>Detects vocal pitch within a defined musical range and maps singing
-      and humming into playable MIDI for instruments, arrangements, and live
-      performance systems.</p>
-      <p><strong>Engineering:</strong> realtime pitch tracking, MIDI output,
-      C++ DSP, iPlug2, WebView2, host automation, presets, and standalone/VST3
-      delivery.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/voice-addition.png" alt="Infin8 Voice Addition local AI voice-over application" width="100%">
-      <h3>Infin8 Voice Addition</h3>
-      <p><strong>Turn a finished script into a polished local AI voice-over.</strong></p>
-      <p>Converts written narration into WAV audio with selectable voices,
-      speech speed, sentence and paragraph timing, final loudness
-      normalization, playback, and direct access to completed output. After
-      the initial free model download, voice generation runs locally on the
-      user's Windows computer.</p>
-      <p><strong>Built with:</strong> Python, PySide6, Kokoro, Misaki, PyTorch,
-      local model caching, audio normalization, and verified standalone
-      packaging.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/premiere-lyric-tool.png" alt="Premiere Lyric Tool production workflow" width="100%">
-      <h3>Premiere Lyric Tool</h3>
-      <p>Transforms audio into reviewed, time-aligned lyrics and a safely
-      copied Adobe Premiere project ready for caption styling and export.</p>
-      <p><strong>Built with:</strong> Python, PyQt6, Whisper, CTranslate2,
-      Demucs, forced alignment, and SRT automation.</p>
+      <p>A developing voice-to-MIDI system that converts singing and humming
+      into playable musical expression.</p>
+      <p><strong>Built with:</strong> realtime pitch tracking, MIDI output,
+      C++ DSP, iPlug2, WebView2, and host automation.</p>
     </td>
   </tr>
   <tr>
@@ -193,131 +186,128 @@ persistent state, shared licensing, and creator-focused workflows.
       <img src="assets/infin8-optimizer.png" alt="Infin8 Optimizer Windows dashboard" width="100%">
       <h3>Infin8 Optimizer</h3>
       <p>A native Windows dashboard for hardware visibility, bounded
-      benchmarks, system diagnostics, cleanup, and guided performance
-      optimization.</p>
+      benchmarks, diagnostics, cleanup, and guided performance optimization.</p>
       <p><strong>Built with:</strong> C++17, Qt 6, CMake, Windows APIs,
       Direct3D 11, and PowerShell.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/yaco-trader.png" alt="Yaco Trader research workstation" width="100%">
-      <h3>Yaco Trader</h3>
-      <p>An experimental trading research workstation combining paper
-      execution, market analysis, local-AI-assisted operations, persistence,
-      wallet integration, and repeatable simulation.</p>
-      <p><strong>Built with:</strong> C++17, Qt 6, SQLite, React, Vite,
-      WebSockets, ethers, and Ollama.</p>
+      <img src="assets/messenger-media-downloader.png" alt="Messenger Media Downloader browser extension" width="100%">
+      <h3>Messenger Media Downloader</h3>
+      <p>Organizes selected conversation media with filtering, duplicate
+      prevention, and private on-device people and object detection.</p>
+      <p><strong>Built with:</strong> JavaScript, Manifest V3, MediaPipe,
+      TensorFlow Lite, EfficientDet, browser APIs, and local inference.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/messenger-media-downloader.png" alt="Messenger Media Downloader browser extension" width="100%">
-      <h3>Messenger Media Downloader</h3>
-      <p>A browser extension for scanning and organizing selected conversation
-      media, with date/type filtering, duplicate prevention, and private
-      on-device people detection.</p>
-      <p><strong>Built with:</strong> JavaScript, Manifest V3, MediaPipe,
-      TensorFlow Lite, browser APIs, and resilient DOM automation.</p>
+      <img src="assets/yaco-trader.png" alt="Yaco Trader research workstation" width="100%">
+      <h3>Yaco Trader</h3>
+      <p>An experimental research workstation for paper execution, market
+      analysis, local-AI-assisted operations, persistence, and simulation.</p>
+      <p><strong>Built with:</strong> C++17, Qt 6, SQLite, React, Vite,
+      WebSockets, ethers, and Ollama.</p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/audio-profile-switcher.png" alt="Audio Profile Switcher desktop launcher" width="100%">
       <h3>Audio Profile Switcher</h3>
       <p>A guarded desktop launcher for switching Voicemeeter and Yamaha
-      configurations between low-latency recording, production, and mastering
-      sessions.</p>
-      <p><strong>Built with:</strong> Python, PyQt6, Windows registry and
-      process APIs, profile validation, dry runs, and operational logging.</p>
+      configurations between recording, production, and mastering sessions.</p>
+      <p><strong>Built with:</strong> Python, PyQt6, Windows process and
+      registry APIs, validation, dry runs, and operational logging.</p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="assets/network-checker.png" alt="Infin8 Network Sentinel purple and cyan monitoring dashboard" width="900">
+  <img src="assets/network-checker.png" alt="Infin8 Network Sentinel monitoring dashboard" width="900">
 </p>
 
-### Network Checker / Infin8 Network Sentinel
+#### Network Checker / Infin8 Network Sentinel
 
-An explainable local network diagnostics and cyber-hygiene workspace that
-correlates live throughput, process-attributed endpoints, listening services,
-connection state, hardware and adapter layers, packet health, and safe DNS and
-outbound-route checks.
+An explainable local network diagnostics and cyber-hygiene workspace. It
+correlates throughput, process-attributed endpoints, listening services,
+connection state, hardware, adapters, packet health, DNS, and outbound-route
+checks without inspecting private payloads or presenting heuristics as proof.
 
-Risk-ranked connections include the reason behind each signal, while loopback
-and normal dynamic-service patterns are handled conservatively to reduce noise.
-The application observes operating-system metadata and counters without
-inspecting payloads or presenting heuristic findings as proof of malicious
-activity.
+**Built with:** Python, `psutil`, Tkinter, IPv4/IPv6 parsing, threaded
+diagnostics, explainable scoring, CLI/JSON integration, and automated tests.
 
-**Built with:** Python, `psutil`, Tkinter, IPv4/IPv6 endpoint parsing,
-threaded diagnostics, explainable heuristic scoring, CLI/JSON integration,
-PyInstaller packaging, and automated tests.
-
-> Yaco Trader is an R&D system, not financial advice or a promise of trading
+> Yaco Trader is an R&D system, not financial advice or a promise of
 > performance. Paper simulation is its intended evaluation path.
 
-## Engineering focus
+## Skills and engineering focus
 
-| Focus | What it means in my work |
+| Focus | Practical experience |
 | --- | --- |
-| **Local-first AI** | Capable inference, speech recognition, alignment, and computer vision running on the user's workstation whenever practical. |
-| **Realtime audio products** | Native DSP, low-latency routing, model-runtime orchestration, metering, preset recall, and standalone/VST3 delivery. |
-| **Native desktop software** | Purpose-built C++, Qt, PyQt, and embedded WebView interfaces integrated with Windows, local hardware, processes, registries, and services. |
-| **Creative automation** | Human-in-the-loop workflows that accelerate repetitive production work without taking creative control away from the operator. |
-| **Safety by design** | Source copies, paper modes, dry runs, bounded workloads, scan-only diagnostics, and explicit user actions around real systems. |
-| **Observable operations** | Progress, logs, intermediate artifacts, persistence, diagnostics, and repeatable validation paths instead of hidden automation. |
-| **End-to-end ownership** | Product thinking, interface design, architecture, implementation, integration, testing, packaging, and technical communication. |
+| **Product engineering** | Product definition, UX, architecture, implementation, integration, testing, packaging, release workflows, and technical communication. |
+| **Local AI systems** | Ollama, llama.cpp, speech-to-text, text-to-speech, RVC voice conversion, model/runtime health checks, GPU profiles, local memory, and approval-gated tools. |
+| **AI video and computer vision** | Remotion-based video systems, MediaPipe, TensorFlow Lite, EfficientDet, YOLO detection/tracking, PyTorch tensor pipelines, CUDA acceleration, ONNX portability, and TensorRT deployment. |
+| **Realtime audio** | Modern C++, DSP, pitch analysis, MIDI, low-latency routing, metering, preset state, iPlug2, VST3, and standalone applications. |
+| **Desktop and web UI** | Qt 6, PySide6/PyQt6, Tauri, Rust, Electron, React, TypeScript, Vite, WebView2, and accessible operational interfaces. |
+| **Windows integration** | Process and registry APIs, audio devices, GPU-aware workloads, local HTTP services, PowerShell automation, installers, and self-contained packaging. |
+| **Safe automation** | Human approval, source-copy workflows, undoable edits, paper modes, dry runs, bounded scans, validation gates, logs, and recoverable outputs. |
 
-## Technology
+### Local AI-video model pipeline
+
+I have worked with Torch and PyTorch tensor pipelines, CUDA GPU acceleration,
+PyTorch `.pt` models, exported and integrated ONNX `.onnx` models, and created
+TensorRT `.engine` files optimized for the available local GPU hardware. These
+model formats support low-latency video programming and YOLO-based detection
+and tracking without requiring footage to leave the local machine.
+
+I apply the resulting detections as structured, reviewable data for product
+and inventory recognition, work-system records, operational analysis, and
+security-event review. The emphasis is on local processing, traceable results,
+bounded retention, and human control over how detections are stored or used.
+
+### Technology
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++17">
-  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt 6">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt 6">
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white" alt="YOLO">
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
 </p>
 
-### Applied AI and integration
+`Ollama` · `llama.cpp` · `Whisper` · `Kokoro` · `Torch tensors` · `PyTorch .pt` ·
+`CUDA` · `ONNX .onnx` · `TensorFlow Lite` · `TensorRT .engine` · `YOLO` ·
+`MediaPipe` · `EfficientDet` ·
+`CTranslate2` · `Demucs` · `RVC` · `Remotion` · `Mediabunny` · `iPlug2` ·
+`VST3` · `WebView2` · `SQLite` · `CMake` · `PowerShell`
 
-`llama.cpp` · `Ollama` · `OptiLLM` · `Whisper` · `CTranslate2` · `Demucs` ·
-`MediaPipe` · `TensorFlow Lite` · `RVC` · `iPlug2` · `WebView2` · `VST3` ·
-`Realtime audio DSP` · `WebSockets` · `Direct3D 11` ·
-`Adobe Premiere automation` · `Browser extensions`
+## What I'm building now
 
-## What I'm focused on now
-
-- Advancing Infin8 MicPre and Infin8 Voice Mod as production-ready audio
-  products.
-- Advancing private, GPU-aware desktop AI experiences.
-- Turning specialized creative workflows into reliable guided products.
-- Building native Windows diagnostics that explain before they change.
-- Packaging product demonstrations and technical case studies for serious
-  evaluation.
-- Exploring responsible applied AI where models assist decisions without
-  hiding risk or removing operator control.
+- Advancing Infin8 MicPre, Tune, Voice Mod, and Effects as the flagship audio
+  product line.
+- Developing Infin8 Assistant as a private local AI partner for work and
+  project operations.
+- Expanding Infin8 Editor across widescreen and social-video production.
+- Expanding YOLO detection and tracking through locally built `.pt`, `.onnx`,
+  and hardware-optimized TensorRT `.engine` pipelines for video, inventory,
+  work-system, and security applications.
+- Turning specialized creative workflows into understandable, repeatable,
+  packaged Windows products.
 
 ## Portfolio access
 
-The product portfolio is intentionally maintained as a private presentation and
-technical-review suite—not as a public build repository.
-
-For qualified employer, partner, or investor conversations, I can provide:
-
-- guided product demonstrations;
-- architecture and implementation walkthroughs;
-- selected source review;
-- discussion of product direction and commercialization opportunities; and
-- deeper technical case studies for individual applications.
+The product portfolio is maintained as a private presentation and technical
+review suite rather than a public source dump. For qualified employer, partner,
+or investor conversations, I can provide guided demonstrations, architecture
+walkthroughs, selected source review, and deeper product case studies.
 
 ## Let's connect
 
 If you are building ambitious desktop software, local AI systems, creative
-tools, or intelligent automation, I would be glad to talk.
+tools, audio products, or intelligent automation, I would be glad to talk.
 
 <p align="center">
   <a href="https://github.com/JacoInfin8">
