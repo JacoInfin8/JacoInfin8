@@ -24,7 +24,8 @@ AI, thoughtful interfaces, and safe automation.
 I build under **Infin8 Apps**, with hands-on ownership across product design,
 architecture, implementation, testing, packaging, and technical presentation.
 My work spans realtime audio, local AI assistants, AI-assisted video creation,
-Windows diagnostics, speech systems, browser automation, and computer vision.
+Windows diagnostics, speech systems, visual website reconstruction,
+browser automation, and computer vision.
 
 The common goal is simple: turn technically difficult workflows into software
 that people can understand, control, and use on their own computers.
@@ -137,6 +138,26 @@ licensing, and repeatable standalone/VST3 packaging.
       <p><strong>Built with:</strong> Electron, React, TypeScript, Remotion,
       Mediabunny, Ollama, optional OpenAI assistance, Premiere migration,
       sandboxed media handling, and deterministic rendering.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <img src="assets/website-builder.png" alt="Infin8 Website Builder visual website reconstruction workspace" width="100%">
+      <h3>Infin8 Website Builder — Visual Website Reconstruction Studio</h3>
+      <p><strong>Open real website folders, preserve their design, and evolve
+      them through a controlled local editing workflow.</strong></p>
+      <p>Infin8 Website Builder is an actively developed desktop workspace for
+      loading existing websites, reconstructing pages into editable components,
+      preserving assets and brand styling, selecting page elements, adjusting
+      properties, previewing responsive layouts, and exporting production-ready
+      site files.</p>
+      <p>Current development is focused on direct canvas movement and resizing,
+      keyboard-based text editing, responsive transform controls, accurate style
+      retention, and reliable round-trip export.</p>
+      <p><strong>Built with:</strong> Tauri, Rust, React, TypeScript, HTML/CSS
+      project analysis, component modelling, responsive preview, local
+      filesystem access, automated quality gates, and standalone Windows
+      packaging.</p>
     </td>
   </tr>
 </table>
@@ -281,7 +302,8 @@ bounded retention, and human control over how detections are stored or used.
 `Ollama` · `llama.cpp` · `Whisper` · `Kokoro` · `Torch tensors` · `PyTorch .pt` ·
 `CUDA` · `ONNX .onnx` · `TensorFlow Lite` · `TensorRT .engine` · `YOLO` ·
 `MediaPipe` · `EfficientDet` ·
-`CTranslate2` · `Demucs` · `RVC` · `Remotion` · `Mediabunny` · `iPlug2` ·
+`CTranslate2` · `Demucs` · `RVC` · `Remotion` · `Mediabunny` ·
+`HTML/CSS project analysis` · `iPlug2` ·
 `VST3` · `WebView2` · `SQLite` · `CMake` · `PowerShell`
 
 ## What I'm building now
@@ -291,6 +313,8 @@ bounded retention, and human control over how detections are stored or used.
 - Developing Infin8 Assistant as a private local AI partner for work and
   project operations.
 - Expanding Infin8 Editor across widescreen and social-video production.
+- Developing Infin8 Website Builder for faithful visual editing of existing
+  websites, direct canvas controls, and controlled production export.
 - Expanding YOLO detection and tracking through locally built `.pt`, `.onnx`,
   and hardware-optimized TensorRT `.engine` pipelines for video, inventory,
   work-system, and security applications.
