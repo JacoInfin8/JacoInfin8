@@ -9,6 +9,17 @@
 
 ### Product engineer · Local AI developer · Audio and creative-software builder
 
+<p>
+  <a href="http://infin8apps.infinityfree.io">
+    <img src="assets/Infin8apps.infinityfree.io.png" alt="Infin8 Apps product website showcasing the software portfolio" width="100%">
+  </a>
+</p>
+
+<p>
+  <strong><a href="http://infin8apps.infinityfree.io">Explore the Infin8 Apps product website</a></strong><br>
+  Product descriptions, application previews, and the developing Infin8 software ecosystem.
+</p>
+
 I design complete Windows products that combine native performance, practical
 AI, thoughtful interfaces, and safe automation.
 
