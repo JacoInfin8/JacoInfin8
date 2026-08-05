@@ -1,0 +1,51 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JacoInfin8/Infin8-Development-Control-Panel/main/schemas/applications.schema.json",
+  "schemaVersion": 1,
+  "organizations": [
+    {
+      "id": "infin8-apps",
+      "name": "Infin8 Apps",
+      "aliases": ["Infinite Applications"]
+    }
+  ],
+  "repository": {
+    "id": "jaco-infin8-profile",
+    "name": "JacoInfin8 GitHub Profile",
+    "organizationId": "infin8-apps",
+    "remote": "https://github.com/JacoInfin8/JacoInfin8.git",
+    "defaultBranch": "main"
+  },
+  "applications": [
+    {
+      "id": "infin8.profile.github",
+      "name": "JacoInfin8 GitHub Profile",
+      "aliases": ["Jaco GitHub Profile", "Infin8 Apps GitHub Profile"],
+      "organizationId": "infin8-apps",
+      "path": ".",
+      "kind": "profile",
+      "category": "public-documentation",
+      "status": "active",
+      "visibility": "public",
+      "customerFacing": false,
+      "description": "Public GitHub profile documentation for Jaco and Infin8 Apps engineering work.",
+      "primaryLanguage": "Markdown",
+      "framework": null,
+      "technologies": ["Markdown", "GitHub"],
+      "entryPoints": [
+        { "name": "Profile README", "path": "README.md", "type": "project" }
+      ],
+      "commands": {},
+      "commandWorkingDirectory": ".",
+      "outputPaths": [],
+      "runtimeAssetManifest": null,
+      "installerType": null,
+      "updaterType": null,
+      "updateChannel": null,
+      "customerDataPaths": [],
+      "licenseDataPaths": [],
+      "securityScanEnabled": true,
+      "releaseEnabled": false,
+      "integrations": { "controlPanel": { "enabled": true } }
+    }
+  ]
+}
