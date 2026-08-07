@@ -7,7 +7,7 @@
 
 # Hi, I'm Jaco
 
-### Product engineer · Local AI developer · Audio and creative-software builder
+### Product engineer · Local AI systems · Creative software · Web gaming
 
 <p>
   <a href="http://infin8apps.infinityfree.io">
@@ -16,8 +16,9 @@
 </p>
 
 <p>
-  <strong><a href="http://infin8apps.infinityfree.io">Explore the Infin8 Apps product website</a></strong><br>
-  Product descriptions, application previews, and the developing Infin8 software ecosystem.
+  <strong><a href="https://infin8apps.infinityfree.io">Explore the Infin8 Apps ecosystem</a></strong><br>
+  Windows applications, local AI systems, creative tools, and the free Infin8 Arcade community.
+  <br><strong><a href="https://infin8apps.infinityfree.io/games/">Play Infin8 Arcade — free in your browser</a></strong>
 </p>
 
 I design complete Windows products that combine native performance, practical
@@ -35,8 +36,8 @@ AI, thoughtful interfaces, and safe automation.
 I build under **Infin8 Apps**, with hands-on ownership across product design,
 architecture, implementation, testing, packaging, and technical presentation.
 My work spans realtime audio, local AI assistants, AI-assisted video creation,
-Windows diagnostics, speech systems, visual website reconstruction,
-browser automation, and computer vision.
+Windows diagnostics, speech systems, visual website reconstruction, browser
+gaming and multiplayer systems, automation, and computer vision.
 
 The common goal is simple: turn technically difficult workflows into software
 that people can understand, control, and use on their own computers.
@@ -46,12 +47,46 @@ that people can understand, control, and use on their own computers.
 | **Local AI** | Private assistants, voice conversations, tool use, project knowledge, speech recognition, and local model orchestration. |
 | **AI video systems** | AI-assisted editing, format adaptation, timeline automation, YOLO detection/tracking, and locally optimized `.pt`, `.onnx`, and TensorRT `.engine` inference. |
 | **Realtime audio** | Native DSP, voice transformation, vocal production, pitch processing, MIDI, metering, and standalone/VST3 delivery. |
+| **Web gaming & community** | Free browser games, shared player profiles, score tracking, leaderboards, control profiles, progression, and multiplayer lobbies. |
 | **Windows products** | C++, Rust, Qt, Tauri, Electron, React, Python, WebView2, local services, packaging, and hardware-aware tools. |
 
 > **Open to:** product-engineering opportunities, technical collaboration,
 > private demonstrations, partnerships, and investment conversations.
 
 ## Featured work
+
+### Infin8 Arcade — free browser gaming, leaderboards, and multiplayer
+
+<p align="center">
+  <a href="https://infin8apps.infinityfree.io/games/">
+    <img src="assets/infin8-arcade.png" alt="Infin8 Arcade free browser game library" width="100%">
+  </a>
+</p>
+
+**Infin8 Arcade is the community and discovery layer of the Infin8 Apps website:**
+a growing collection of original games that are free to play directly in the
+browser, designed to bring players back through progression, competition, and
+multiplayer while introducing more people to the wider Infin8 Apps ecosystem.
+
+The Arcade uses shared player-profile and score systems so games can participate
+in common leaderboards, progression, control profiles, and multiplayer flows
+rather than operating as isolated demos. Signed-in profiles provide persistent
+identity for competitive features and live lobbies.
+
+Current games include:
+
+- **Skate Scroller** — a neon side-scrolling skate game built around long rails
+  and ledges, manuals, combo continuation, wide landing zones, and score runs.
+- **LoneWolfanCub** — an anime-inspired 2D side-scroll shooter/adventure with
+  LoneWolf, Cub, and Chimmy, character abilities, bosses, XP, and campaign
+  progression.
+- **Infin8 Brawl** — a street-run, wrestling, and versus-fighter hybrid with
+  solo progression, crew waves, grapples, combo pressure, bosses, finishers,
+  and profile-gated live multiplayer lobbies.
+
+<p align="center">
+  <strong><a href="https://infin8apps.infinityfree.io/games/">▶ Play Infin8 Arcade free</a></strong>
+</p>
 
 ### Infin8 Suite — flagship audio products
 
@@ -115,21 +150,24 @@ licensing, and repeatable standalone/VST3 packaging.
   <tr>
     <td colspan="2" width="100%" valign="top">
       <img src="assets/infin8-assistant.png" alt="Infin8 Assistant local AI work and project control panel" width="100%">
-      <h3>Infin8 Assistant — Local AI Development Control Panel</h3>
-      <p><strong>A private, free-to-run local assistant for conversation,
-      focused work, and project oversight.</strong></p>
-      <p>Infin8 Assistant combines natural text and voice conversations with
-      projects, applications, tasks, work sessions, calendars, notes, releases,
-      repository health, and local development services. It searches registered
-      project knowledge, explains current work, helps plan next actions, and
-      performs supported updates through explicit approval controls.</p>
-      <p>Models, speech, operational records, and source context can remain on
-      the user's machine through Ollama, Whisper, Kokoro, and local SQLite
-      storage.</p>
+      <h3>Infin8 Assistant — Voice-Driven AI Business Operations</h3>
+      <p><strong>A local AI command layer that can turn natural-language and
+      voice requests into real, controlled business and development actions.</strong></p>
+      <p>Infin8 Assistant connects directly to the Infin8 Development Control
+      Panel so I can manage work through text or voice conversations, including
+      Discord voice. It can operate across tasks, calendars, notes, projects,
+      development workflows, agent jobs, Discord operations, customer/business
+      records, and other registered Control Panel tools.</p>
+      <p>The system is built around real tool execution rather than simulated
+      confirmations: actions are prepared, approval-gated where appropriate,
+      executed through the connected subsystem, and recorded in activity logs.
+      This makes voice-driven automation practical while keeping consequential
+      changes visible and reviewable.</p>
+      <p>Models, speech, operational records, and project context can stay local
+      through Ollama, Whisper, Kokoro, and SQLite-backed services.</p>
       <p><strong>Built with:</strong> Tauri, Rust, React, TypeScript, SQLite,
-      Ollama, Whisper, Kokoro, Git integration, Windows audio routing, and
-      approval-gated assistant tools.</p>
-    </td>
+      Ollama, Whisper, Kokoro, Discord integration, Git integration, Windows
+      audio routing, business-operation tools, and approval-gated automation.</p>    </td>
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
@@ -277,6 +315,7 @@ diagnostics, explainable scoring, CLI/JSON integration, and automated tests.
 | **AI video and computer vision** | Remotion-based video systems, MediaPipe, TensorFlow Lite, EfficientDet, YOLO detection/tracking, PyTorch tensor pipelines, CUDA acceleration, ONNX portability, and TensorRT deployment. |
 | **Realtime audio** | Modern C++, DSP, pitch analysis, MIDI, low-latency routing, metering, preset state, iPlug2, VST3, and standalone applications. |
 | **Desktop and web UI** | Qt 6, PySide6/PyQt6, Tauri, Rust, Electron, React, TypeScript, Vite, WebView2, and accessible operational interfaces. |
+| **Gaming & community systems** | Browser game architecture, shared profiles, score persistence, leaderboards, progression systems, multiplayer lobbies, and reusable control/game registries. |
 | **Windows integration** | Process and registry APIs, audio devices, GPU-aware workloads, local HTTP services, PowerShell automation, installers, and self-contained packaging. |
 | **Safe automation** | Human approval, source-copy workflows, undoable edits, paper modes, dry runs, bounded scans, validation gates, logs, and recoverable outputs. |
 
@@ -319,10 +358,14 @@ bounded retention, and human control over how detections are stored or used.
 
 ## What I'm building now
 
+- Expanding **Infin8 Arcade** as a fully free gaming destination for the Infin8
+  Apps website, with original games, persistent profiles, leaderboards,
+  progression, multiplayer lobbies, and community-driven repeat visits.
+- Advancing **Infin8 Assistant** into a voice-driven operational layer for the
+  business, connecting AI conversations to real Control Panel tools and
+  approval-gated actions.
 - Advancing Infin8 MicPre, Tune, Voice Mod, and Effects as the flagship audio
   product line.
-- Developing Infin8 Assistant as a private local AI partner for work and
-  project operations.
 - Expanding Infin8 Editor across widescreen and social-video production.
 - Developing Infin8 Website Builder for faithful visual editing of existing
   websites, direct canvas controls, and controlled production export.
