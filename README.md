@@ -17,7 +17,8 @@
 
 <p>
   <strong><a href="https://infin8apps.infinityfree.io">Explore the Infin8 Apps ecosystem</a></strong><br>
-  Windows applications, local AI systems, creative tools, and the free Infin8 Arcade community.
+  Infin8 Assistant for local work and business operations, standalone creative
+  and PC tools, developed audio software, and the free Infin8 Arcade community.
   <br><strong><a href="https://infin8apps.infinityfree.io/games/">Play Infin8 Arcade — free in your browser</a></strong>
 </p>
 
@@ -54,6 +55,34 @@ that people can understand, control, and use on their own computers.
 > private demonstrations, partnerships, and investment conversations.
 
 ## Featured work
+
+### Infin8 Assistant — local work, business, and personal management
+
+<p align="center">
+  <a href="https://infin8apps.infinityfree.io/software.html">
+    <img src="assets/infin8-assistant.png" alt="Infin8 Assistant local work and business operations workspace" width="100%">
+  </a>
+</p>
+
+**Infin8 Assistant is the main product focus:** a local AI command layer that
+connects text and voice conversations to real, controlled actions across tasks,
+calendar, notes, projects, releases, Discord operations, development workflows,
+and customer or business records. Consequential actions are prepared, approval
+gated, executed by the connected subsystem, and recorded in activity logs.
+
+The wider standalone software line focuses that same local-first approach on
+three demanding workflows:
+
+- **Infin8 Editor** — AI-assisted widescreen and social-video creation in a
+  complete local editing workspace.
+- **Infin8 Website Builder** — visual reconstruction and controlled editing of
+  real website folders while preserving their design and assets.
+- **Infin8 Optimizer** — explainable Windows hardware visibility, diagnostics,
+  bounded benchmarks, cleanup, and guided PC optimization.
+
+<p align="center">
+  <strong><a href="https://infin8apps.infinityfree.io/software.html">Explore Infin8 software</a></strong>
+</p>
 
 ### Infin8 Arcade — free browser gaming, leaderboards, and multiplayer
 
@@ -358,17 +387,16 @@ bounded retention, and human control over how detections are stored or used.
 
 ## What I'm building now
 
-- Expanding **Infin8 Arcade** as a fully free gaming destination for the Infin8
-  Apps website, with original games, persistent profiles, leaderboards,
-  progression, multiplayer lobbies, and community-driven repeat visits.
 - Advancing **Infin8 Assistant** into a voice-driven operational layer for the
   business, connecting AI conversations to real Control Panel tools and
   approval-gated actions.
+- Expanding **Infin8 Editor**, **Infin8 Website Builder**, and **Infin8
+  Optimizer** as focused standalone Windows tools for creation and PC care.
 - Advancing Infin8 MicPre, Tune, Voice Mod, and Effects as the flagship audio
   product line.
-- Expanding Infin8 Editor across widescreen and social-video production.
-- Developing Infin8 Website Builder for faithful visual editing of existing
-  websites, direct canvas controls, and controlled production export.
+- Expanding **Infin8 Arcade** as a fully free gaming destination for the Infin8
+  Apps website, with original games, persistent profiles, leaderboards,
+  progression, multiplayer lobbies, and community-driven repeat visits.
 - Expanding YOLO detection and tracking through locally built `.pt`, `.onnx`,
   and hardware-optimized TensorRT `.engine` pipelines for video, inventory,
   work-system, and security applications.
