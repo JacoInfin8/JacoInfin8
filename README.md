@@ -144,7 +144,7 @@ licensing, and repeatable standalone/VST3 packaging.
   </tr>
 </table>
 
-### Priority AI and creative products
+### Developed Infin8 Apps products
 
 <table>
   <tr>
@@ -211,111 +211,36 @@ licensing, and repeatable standalone/VST3 packaging.
       packaging.</p>
     </td>
   </tr>
-</table>
-
-### More products and applied systems
-
-<table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/voice-addition.png" alt="Infin8 Voice Addition local AI voice-over application" width="100%">
-      <h3>Infin8 Voice Addition</h3>
-      <p>Turns scripts into local AI voice-over WAV files with voice selection,
-      pacing controls, loudness normalization, playback, and verified
-      standalone packaging.</p>
-      <p><strong>Built with:</strong> Python, PySide6, Kokoro, Misaki, PyTorch,
-      local model caching, and audio normalization.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/premiere-lyric-tool.png" alt="Premiere Lyric Tool production workflow" width="100%">
-      <h3>Premiere Lyric Tool</h3>
-      <p>Transforms audio into reviewed, time-aligned lyrics and a safely copied
-      Adobe Premiere project ready for caption styling and export.</p>
-      <p><strong>Built with:</strong> Python, PyQt6, Whisper, CTranslate2,
-      Demucs, forced alignment, and SRT automation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/infin8-synth.png" alt="Infin8 Synth instrument interface" width="100%">
-      <h3>Infin8 Synth</h3>
-      <p>A developing polyphonic synthesis and tempo-aware sample system with
-      modulation, performance controls, and preset state.</p>
-      <p><strong>Built with:</strong> C++ DSP, iPlug2, WebView2, MIDI, and
-      standalone/VST3 packaging.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/infin8-vox.png" alt="Infin8 Vox voice-to-MIDI interface" width="100%">
-      <h3>Infin8 Vox</h3>
-      <p>A developing voice-to-MIDI system that converts singing and humming
-      into playable musical expression.</p>
-      <p><strong>Built with:</strong> realtime pitch tracking, MIDI output,
-      C++ DSP, iPlug2, WebView2, and host automation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/infin8-optimizer.png" alt="Infin8 Optimizer Windows dashboard" width="100%">
-      <h3>Infin8 Optimizer</h3>
-      <p>A native Windows dashboard for hardware visibility, bounded
-      benchmarks, diagnostics, cleanup, and guided performance optimization.</p>
+    <td colspan="2" width="100%" valign="top">
+      <img src="assets/infin8-optimizer.png" alt="Infin8 Optimizer Windows performance and diagnostics dashboard" width="100%">
+      <h3>Infin8 Optimizer — Windows Performance and Diagnostics</h3>
+      <p><strong>Understand the PC, verify its condition, and make bounded
+      performance improvements from one native workspace.</strong></p>
+      <p>Infin8 Optimizer combines hardware visibility, diagnostics, guarded
+      cleanup, benchmarks, and guided optimization with clear evidence and
+      recovery boundaries.</p>
       <p><strong>Built with:</strong> C++17, Qt 6, CMake, Windows APIs,
-      Direct3D 11, and PowerShell.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/messenger-media-downloader.png" alt="Messenger Media Downloader browser extension" width="100%">
-      <h3>Messenger Media Downloader</h3>
-      <p>Organizes selected conversation media with filtering, duplicate
-      prevention, and private on-device people and object detection.</p>
-      <p><strong>Built with:</strong> JavaScript, Manifest V3, MediaPipe,
-      TensorFlow Lite, EfficientDet, browser APIs, and local inference.</p>
+      Direct3D 11, PowerShell, and repeatable validation.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/yaco-trader.png" alt="Yaco Trader research workstation" width="100%">
-      <h3>Yaco Trader</h3>
-      <p>An experimental research workstation for paper execution, market
-      analysis, local-AI-assisted operations, persistence, and simulation.</p>
-      <p><strong>Built with:</strong> C++17, Qt 6, SQLite, React, Vite,
-      WebSockets, ethers, and Ollama.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/audio-profile-switcher.png" alt="Audio Profile Switcher desktop launcher" width="100%">
-      <h3>Audio Profile Switcher</h3>
-      <p>A guarded desktop launcher for switching Voicemeeter and Yamaha
-      configurations between recording, production, and mastering sessions.</p>
-      <p><strong>Built with:</strong> Python, PyQt6, Windows process and
-      registry APIs, validation, dry runs, and operational logging.</p>
+    <td colspan="2" width="100%" valign="top">
+      <img src="assets/network-checker.png" alt="Infin8 Sentinel network and process intelligence dashboard" width="100%">
+      <h3>Infin8 Sentinel — Network and Process Intelligence</h3>
+      <p><strong>Explain local network activity, process ownership, protected
+      routes, stability, and security signals without inspecting private
+      payloads.</strong></p>
+      <p>Sentinel correlates throughput, ports, service purpose, network scope,
+      process and resource pressure, active local networks, adapter health,
+      DNS, and outbound routes. Findings remain plain-language, evidence-backed,
+      and careful not to present heuristics as proof of malicious activity.</p>
+      <p><strong>Built with:</strong> Python, psutil, PySide6 Essentials through
+      its free open-source license route, IPv4/IPv6 analysis, protected-route
+      policy, threaded diagnostics, CLI/JSON integration, and automated tests.</p>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="assets/network-checker.png" alt="Infin8 Network Sentinel monitoring dashboard" width="900">
-</p>
-
-#### Infin8 Sentinel — network and process intelligence
-
-An explainable local network, process, and cyber-hygiene workspace. Its shared
-intelligence layer correlates throughput, ports, service purpose, network scope,
-process ownership and resource pressure, active local subnets and peers,
-adapter errors and drops, and safe DNS/outbound-route checks.
-
-The Local Networks workflow also watches protected local AI, voice, OAuth,
-tunnel-inspection, RVC, and private update-server routes used by the Infin8
-Control Panel ecosystem. Unexpected listener ownership becomes a prioritized,
-plain-language finding with evidence and a safe next step. Sentinel observes
-metadata and counters without inspecting packet payloads or treating heuristic
-signals as proof of malicious activity.
-
-**Built with:** Python, `psutil`, PySide6 Essentials through its free
-open-source license route, IPv4/IPv6 parsing, process/resource correlation,
-protected-route policy, threaded diagnostics, explainable scoring, CLI/JSON
-integration, and automated tests.
-
-> Yaco Trader is an R&D system, not financial advice or a promise of
-> performance. Paper simulation is its intended evaluation path.
 
 ## Skills and engineering focus
 
