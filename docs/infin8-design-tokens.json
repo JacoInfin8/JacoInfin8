@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "designSystemVersion": "2026.08",
+  "desktop": {
+    "base": "#090b13",
+    "panel": "#111522",
+    "panelAlt": "#151a2a",
+    "border": "#242b42",
+    "cyan": "#4de8ff",
+    "cyanBright": "#7ff0ff",
+    "purple": "#9b6dff",
+    "text": "#edf2ff",
+    "textSoft": "#d6dced",
+    "muted": "#929bb3",
+    "success": "#5ce6a5",
+    "warning": "#ffd479",
+    "danger": "#ff708b"
+  },
+  "website": {
+    "base": "#070910",
+    "baseRaised": "#0d111c",
+    "panel": "rgba(17, 22, 36, 0.82)",
+    "purple": "#8b5cf6",
+    "purpleLight": "#b9a1ff",
+    "cyan": "#39d7ee",
+    "success": "#39dfa0"
+  },
+  "audioWebView": {
+    "cyan": "#42e0ff",
+    "purple": "#bc62ff",
+    "contract": "E:/Infin8-Audio/docs/ui-system.md",
+    "validator": "E:/Infin8-Audio/tools/verify-ui-system.ps1"
+  },
+  "shape": {
+    "panelRadiusDesktop": 14,
+    "controlRadius": 9,
+    "compactRadius": 8,
+    "spacingUnit": 4
+  }
+}

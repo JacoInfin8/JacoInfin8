@@ -31,7 +31,7 @@ AI, thoughtful interfaces, and safe automation.
 
 ---
 
-## Building useful software from idea to release
+## Building useful software from idea to validated product
 
 I build under **Infin8 Apps**, with hands-on ownership across product design,
 architecture, implementation, testing, packaging, and technical presentation.
@@ -88,9 +88,9 @@ Current games include:
   <strong><a href="https://infin8apps.infinityfree.io/games/">▶ Play Infin8 Arcade free</a></strong>
 </p>
 
-### Infin8 Suite — flagship audio products
+### Infin8 Audio — flagship audio products
 
-These are the four primary Infin8 Suite products: focused Windows audio tools
+These are four primary Infin8 Audio products: focused Windows audio tools
 with native realtime processing, embedded interfaces, persistent state, shared
 licensing, and repeatable standalone/VST3 packaging.
 
@@ -149,7 +149,7 @@ licensing, and repeatable standalone/VST3 packaging.
 <table>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <img src="assets/infin8-assistant.png" alt="Infin8 Assistant local AI work and project control panel" width="100%">
+      <img src="assets/infin8-assistant.png" alt="Infin8 Control Panel dashboard showing Loopy camera, local Ollama, and Discord Assistant runtime controls" width="100%">
       <h3>Infin8 Assistant — Voice-Driven AI Business Operations</h3>
       <p><strong>A local AI command layer that can turn natural-language and
       voice requests into real, controlled business and development actions.</strong></p>
@@ -158,6 +158,10 @@ licensing, and repeatable standalone/VST3 packaging.
       Discord voice. It can operate across tasks, calendars, notes, projects,
       development workflows, agent jobs, Discord operations, customer/business
       records, and other registered Control Panel tools.</p>
+      <p>Loopy is the Assistant's visual voice presence. A dedicated local
+      virtual-camera workflow can bring Loopy into Discord calls, while the
+      Dashboard exposes Loopy capture, the independent local Ollama runtime,
+      and Discord voice services with direct readiness and lifecycle controls.</p>
       <p>The system is built around real tool execution rather than simulated
       confirmations: actions are prepared, approval-gated where appropriate,
       executed through the connected subsystem, and recorded in activity logs.
@@ -191,18 +195,16 @@ licensing, and repeatable standalone/VST3 packaging.
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <img src="assets/website-builder.png" alt="Infin8 Website Builder visual website reconstruction workspace" width="100%">
-      <h3>Infin8 Website Builder — Visual Website Reconstruction Studio</h3>
+      <img src="assets/website-builder.png" alt="Infin8 Website Editor visual website reconstruction workspace" width="100%">
+      <h3>Infin8 Website Editor — Visual Website Reconstruction Studio</h3>
       <p><strong>Open real website folders, preserve their design, and evolve
       them through a controlled local editing workflow.</strong></p>
-      <p>Infin8 Website Builder is an actively developed desktop workspace for
-      loading existing websites, reconstructing pages into editable components,
-      preserving assets and brand styling, selecting page elements, adjusting
-      properties, previewing responsive layouts, and exporting production-ready
-      site files.</p>
-      <p>Current development is focused on direct canvas movement and resizing,
-      keyboard-based text editing, responsive transform controls, accurate style
-      retention, and reliable round-trip export.</p>
+      <p>Infin8 Website Editor loads existing website repositories as editable
+      digital twins while preserving hierarchy, CSS, media, fonts, responsive
+      rules, navigation, and filenames. Direct selection, movement, resizing,
+      keyboard text editing, exact property controls, preview, backup,
+      validation, source saving, and deployment export share one authoritative
+      document state.</p>
       <p><strong>Built with:</strong> Tauri, Rust, React, TypeScript, HTML/CSS
       project analysis, component modelling, responsive preview, local
       filesystem access, automated quality gates, and standalone Windows
@@ -293,15 +295,24 @@ licensing, and repeatable standalone/VST3 packaging.
   <img src="assets/network-checker.png" alt="Infin8 Network Sentinel monitoring dashboard" width="900">
 </p>
 
-#### Network Checker / Infin8 Network Sentinel
+#### Infin8 Sentinel — network and process intelligence
 
-An explainable local network diagnostics and cyber-hygiene workspace. It
-correlates throughput, process-attributed endpoints, listening services,
-connection state, hardware, adapters, packet health, DNS, and outbound-route
-checks without inspecting private payloads or presenting heuristics as proof.
+An explainable local network, process, and cyber-hygiene workspace. Its shared
+intelligence layer correlates throughput, ports, service purpose, network scope,
+process ownership and resource pressure, active local subnets and peers,
+adapter errors and drops, and safe DNS/outbound-route checks.
 
-**Built with:** Python, `psutil`, Tkinter, IPv4/IPv6 parsing, threaded
-diagnostics, explainable scoring, CLI/JSON integration, and automated tests.
+The Local Networks workflow also watches protected local AI, voice, OAuth,
+tunnel-inspection, RVC, and private update-server routes used by the Infin8
+Control Panel ecosystem. Unexpected listener ownership becomes a prioritized,
+plain-language finding with evidence and a safe next step. Sentinel observes
+metadata and counters without inspecting packet payloads or treating heuristic
+signals as proof of malicious activity.
+
+**Built with:** Python, `psutil`, PySide6 Essentials through its free
+open-source license route, IPv4/IPv6 parsing, process/resource correlation,
+protected-route policy, threaded diagnostics, explainable scoring, CLI/JSON
+integration, and automated tests.
 
 > Yaco Trader is an R&D system, not financial advice or a promise of
 > performance. Paper simulation is its intended evaluation path.
@@ -318,6 +329,12 @@ diagnostics, explainable scoring, CLI/JSON integration, and automated tests.
 | **Gaming & community systems** | Browser game architecture, shared profiles, score persistence, leaderboards, progression systems, multiplayer lobbies, and reusable control/game registries. |
 | **Windows integration** | Process and registry APIs, audio devices, GPU-aware workloads, local HTTP services, PowerShell automation, installers, and self-contained packaging. |
 | **Safe automation** | Human approval, source-copy workflows, undoable edits, paper modes, dry runs, bounded scans, validation gates, logs, and recoverable outputs. |
+
+Customer-facing Infin8 interfaces use an Infin8-owned design system with shared
+texture, transparency, accessibility, and operational-clarity rules. UI
+frameworks, themes, and component libraries must remain free to use for
+commercial Infin8 products; paid UI systems, subscriptions, royalties, trials,
+watermarks, revenue caps, and paid feature gates are not adopted.
 
 ### Local AI-video model pipeline
 
@@ -364,16 +381,20 @@ bounded retention, and human control over how detections are stored or used.
 - Advancing **Infin8 Assistant** into a voice-driven operational layer for the
   business, connecting AI conversations to real Control Panel tools and
   approval-gated actions.
-- Advancing Infin8 MicPre, Tune, Voice Mod, and Effects as the flagship audio
+- Advancing Infin8 MicPre, Tune, Voice Mod, and Effects as the flagship Infin8 Audio
   product line.
 - Expanding Infin8 Editor across widescreen and social-video production.
-- Developing Infin8 Website Builder for faithful visual editing of existing
+- Developing Infin8 Website Editor for faithful visual editing of existing
   websites, direct canvas controls, and controlled production export.
+- Developing Infin8 Sentinel into a plain-language network and process
+  intelligence hub for local networks, protected development/service routes,
+  stability, performance, and security review.
 - Expanding YOLO detection and tracking through locally built `.pt`, `.onnx`,
   and hardware-optimized TensorRT `.engine` pipelines for video, inventory,
   work-system, and security applications.
 - Turning specialized creative workflows into understandable, repeatable,
-  packaged Windows products.
+  validated Windows products. Release packages are produced only when a product
+  is finished for that release and a release is explicitly requested.
 
 ## Portfolio access
 
