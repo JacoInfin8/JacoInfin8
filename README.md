@@ -17,12 +17,13 @@
 
 <p>
   <strong><a href="https://infin8apps.infinityfree.io">Explore the Infin8 Apps ecosystem</a></strong><br>
-  Windows applications, local AI systems, creative tools, and the free Infin8 Arcade community.
+  Infin8 Assistant, four developed Audio plugins, practical Windows software,
+  and the free Infin8 Arcade community.
   <br><strong><a href="https://infin8apps.infinityfree.io/games/">Play Infin8 Arcade — free in your browser</a></strong>
 </p>
 
-I design complete Windows products that combine native performance, practical
-AI, thoughtful interfaces, and safe automation.
+I design local-first products that combine native performance, practical AI,
+thoughtful interfaces, real user control, and safe automation.
 
 [Featured work](#featured-work) · [Skills](#skills-and-engineering-focus) ·
 [Current focus](#what-im-building-now) · [Connect](#lets-connect)
@@ -35,9 +36,10 @@ AI, thoughtful interfaces, and safe automation.
 
 I build under **Infin8 Apps**, with hands-on ownership across product design,
 architecture, implementation, testing, packaging, and technical presentation.
-My work spans realtime audio, local AI assistants, AI-assisted video creation,
-Windows diagnostics, speech systems, visual website reconstruction, browser
-gaming and multiplayer systems, automation, and computer vision.
+The current Infin8 Apps ecosystem is led by Infin8 Assistant for local work,
+business, and personal management; four developed Audio plugins; focused
+Windows applications for creation and diagnostics; and Infin8 Arcade games
+with shared profiles, progression, controls, and leaderboards.
 
 The common goal is simple: turn technically difficult workflows into software
 that people can understand, control, and use on their own computers.
@@ -68,21 +70,25 @@ a growing collection of original games that are free to play directly in the
 browser, designed to bring players back through progression, competition, and
 multiplayer while introducing more people to the wider Infin8 Apps ecosystem.
 
-The Arcade uses shared player-profile and score systems so games can participate
-in common leaderboards, progression, control profiles, and multiplayer flows
-rather than operating as isolated demos. Signed-in profiles provide persistent
-identity for competitive features and live lobbies.
+The Arcade uses shared player profiles, cross-device progression, customizable
+control profiles, per-game and per-level leaderboards, top-player cards, and
+verified score submission rather than operating as isolated demos. Signed-in
+profiles provide persistent identity for competitive features and live lobbies.
 
 Current games include:
 
-- **Skate Scroller** — a neon side-scrolling skate game built around long rails
-  and ledges, manuals, combo continuation, wide landing zones, and score runs.
+- **Infin8 Sk8er** — ride ten progressively longer themed terrain builds with
+  long rails and ledges, manuals, forgiving combo continuation, wide landing
+  zones, rare forced hazards, and optional high-line energy rings.
 - **LoneWolfanCub** — an anime-inspired 2D side-scroll shooter/adventure with
-  LoneWolf, Cub, and Chimmy, character abilities, bosses, XP, and campaign
-  progression.
-- **Infin8 Brawl** — a street-run, wrestling, and versus-fighter hybrid with
-  solo progression, crew waves, grapples, combo pressure, bosses, finishers,
-  and profile-gated live multiplayer lobbies.
+  LoneWolf, giant-transforming Cub, and Chimmy across ten regions, timed level
+  weapons, a different boss in every region, XP, and campaign progression.
+- **Infin8 Brawler** — fight through a ten-arena Street Run with distinct
+  terrain, crew archetypes, hazards, wrestling-style grapples, combo pressure,
+  bosses, finishers, and profile-gated live Versus lobbies.
+- **Infin8 Exploder** — swap and match bright symbols to trigger chain
+  explosions across ten escalating puzzle levels with stricter time windows,
+  deeper cascade pressure, and full and per-level leaderboards.
 
 <p align="center">
   <strong><a href="https://infin8apps.infinityfree.io/games/">▶ Play Infin8 Arcade free</a></strong>
