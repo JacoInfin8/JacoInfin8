@@ -164,10 +164,6 @@ licensing, and repeatable standalone/VST3 packaging.
       Discord voice. It can operate across tasks, calendars, notes, projects,
       development workflows, agent jobs, Discord operations, customer/business
       records, and other registered Control Panel tools.</p>
-      <p>Loopy is the Assistant's visual voice presence. A dedicated local
-      virtual-camera workflow can bring Loopy into Discord calls, while the
-      Dashboard exposes Loopy capture, the independent local Ollama runtime,
-      and Discord voice services with direct readiness and lifecycle controls.</p>
       <p>The system is built around real tool execution rather than simulated
       confirmations: actions are prepared, approval-gated where appropriate,
       executed through the connected subsystem, and recorded in activity logs.
@@ -178,6 +174,28 @@ licensing, and repeatable standalone/VST3 packaging.
       <p><strong>Built with:</strong> Tauri, Rust, React, TypeScript, SQLite,
       Ollama, Whisper, Kokoro, Discord integration, Git integration, Windows
       audio routing, business-operation tools, and approval-gated automation.</p>    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <img src="assets/loopy.png" alt="Loopy visual voice assistant showing an approval-gated response inside the Infin8 Control Panel" width="100%">
+      <h3>Loopy — The Visual Voice of Infin8 Assistant</h3>
+      <p><strong>Loopy turns the local Assistant into a visible, expressive
+      presence for conversation, voice work, approvals, and Discord calls.</strong></p>
+      <p>Loopy lives in a dedicated Infin8 Assistant window with a large,
+      readable response bubble and clear status for ready, listening,
+      reviewing, working, waiting for approval, speaking, and attention-needed
+      states. His animation reflects what the Assistant is doing without
+      replacing the exact text, evidence, or controls the user needs.</p>
+      <p>Voice interaction stays direct: select Loopy or use the Spacebar to
+      speak, review the transcribed request, and approve consequential actions
+      before they run. Responses can remain local through Ollama, Whisper,
+      Kokoro, and the Control Panel's local operational records.</p>
+      <p>A dedicated Loopy camera workflow captures only the Assistant window
+      through Windows Graphics Capture and publishes it to a local virtual
+      camera for Discord. It does not launch or modify Streamlabs, and the
+      Dashboard keeps camera, Assistant runtime, Discord voice, readiness, and
+      lifecycle controls visible and separate.</p>
+    </td>
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
