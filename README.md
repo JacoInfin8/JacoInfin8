@@ -124,7 +124,7 @@ licensing, and repeatable standalone/VST3 packaging.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/infin8-micpre.png" alt="Infin8 MicPre vocal production interface" width="100%">
+      <img src="assets/infin8-micpre.webp" alt="Infin8 MicPre vocal production interface" width="100%">
       <h3>Infin8 MicPre</h3>
       <p><strong>A complete vocal front end in one workspace.</strong></p>
       <p>Combines gain staging, cleanup, dynamics, tone shaping, output safety,
@@ -135,7 +135,7 @@ licensing, and repeatable standalone/VST3 packaging.
       standalone/VST3 delivery.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/infin8-tune.png" alt="Infin8 Tune realtime vocal correction interface" width="100%">
+      <img src="assets/infin8-tune.webp" alt="Infin8 Tune realtime vocal correction interface" width="100%">
       <h3>Infin8 Tune</h3>
       <p><strong>Realtime vocal correction with musical control.</strong></p>
       <p>Provides key-and-scale targeting, correction character, pitch-motion
@@ -148,7 +148,7 @@ licensing, and repeatable standalone/VST3 packaging.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/infin8-voice-mod.png" alt="Infin8 Voice Mod realtime voice transformation interface" width="100%">
+      <img src="assets/infin8-voice-mod.webp" alt="Infin8 Voice Mod realtime voice transformation interface" width="100%">
       <h3>Infin8 Voice Mod</h3>
       <p><strong>Realtime voice transformation with a complete local workflow.</strong></p>
       <p>Turns trained voice packages into a usable production system with
@@ -159,7 +159,7 @@ licensing, and repeatable standalone/VST3 packaging.
       packaging, and shared licensing.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/infin8-effects.png" alt="Infin8 Effects sound-processing interface" width="100%">
+      <img src="assets/infin8-effects.webp" alt="Infin8 Effects sound-processing interface" width="100%">
       <h3>Infin8 Effects</h3>
       <p><strong>Sculpt, move, and finish sound in one effects environment.</strong></p>
       <p>Brings dynamics, saturation, limiting, modulation, space, delay, and
