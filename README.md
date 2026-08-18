@@ -17,8 +17,9 @@
 
 <p>
   <strong><a href="https://infin8apps.infinityfree.io">Explore the Infin8 Apps ecosystem</a></strong><br>
-  Infin8 Assistant, four developed Audio plugins, practical Windows software,
-  and the free Infin8 Arcade community.
+  Infin8 Assistant is now the primary platform for product direction, with Loopy
+  as its interactive companion. Other software suites are now secondary and
+  integrated through this runtime where practical.
   <br><strong><a href="https://infin8apps.infinityfree.io/games/">Play Infin8 Arcade — free in your browser</a></strong>
 </p>
 
@@ -56,6 +57,26 @@ that people can understand, control, and use on their own computers.
 > private demonstrations, partnerships, and investment conversations.
 
 ## Featured work
+
+### Infin8 Assistant — Voice-Driven AI Business Operations
+
+<p align="center">
+  <img src="assets/infin8-assistant.png" alt="Infin8 Assistant forward-facing interface with local AI workflow controls" width="100%">
+</p>
+
+Infin8 Assistant is the flagship platform for Infin8’s development and operational layer.
+It is a local AI control surface that turns natural-language and voice requests into
+real, approval-gated operations inside the Infin8 Development Control Panel.
+
+### Loopy — The Visual Voice of Infin8 Assistant
+
+<p align="center">
+  <img src="assets/loopy.png" alt="Loopy visual voice assistant showing an approval-gated response inside the Infin8 Control Panel" width="100%">
+</p>
+
+Loopy gives Infin8 Assistant a clear interaction layer for voice workflows, approvals,
+and Discord runtime visibility. The characterized status flow keeps users informed of
+assistant state while all consequential actions remain review-gated and auditable.
 
 ### Infin8 Arcade — free browser gaming, leaderboards, and multiplayer
 
@@ -155,50 +176,6 @@ licensing, and repeatable standalone/VST3 packaging.
 <table>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <img src="assets/infin8-assistant.png" alt="Infin8 Control Panel dashboard showing Loopy camera, local Ollama, and Discord Assistant runtime controls" width="100%">
-      <h3>Infin8 Assistant — Voice-Driven AI Business Operations</h3>
-      <p><strong>A local AI command layer that can turn natural-language and
-      voice requests into real, controlled business and development actions.</strong></p>
-      <p>Infin8 Assistant connects directly to the Infin8 Development Control
-      Panel so I can manage work through text or voice conversations, including
-      Discord voice. It can operate across tasks, calendars, notes, projects,
-      development workflows, agent jobs, Discord operations, customer/business
-      records, and other registered Control Panel tools.</p>
-      <p>The system is built around real tool execution rather than simulated
-      confirmations: actions are prepared, approval-gated where appropriate,
-      executed through the connected subsystem, and recorded in activity logs.
-      This makes voice-driven automation practical while keeping consequential
-      changes visible and reviewable.</p>
-      <p>Models, speech, operational records, and project context can stay local
-      through Ollama, Whisper, Kokoro, and SQLite-backed services.</p>
-      <p><strong>Built with:</strong> Tauri, Rust, React, TypeScript, SQLite,
-      Ollama, Whisper, Kokoro, Discord integration, Git integration, Windows
-      audio routing, business-operation tools, and approval-gated automation.</p>    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
-      <img src="assets/loopy.png" alt="Loopy visual voice assistant showing an approval-gated response inside the Infin8 Control Panel" width="100%">
-      <h3>Loopy — The Visual Voice of Infin8 Assistant</h3>
-      <p><strong>Loopy turns the local Assistant into a visible, expressive
-      presence for conversation, voice work, approvals, and Discord calls.</strong></p>
-      <p>Loopy lives in a dedicated Infin8 Assistant window with a large,
-      readable response bubble and clear status for ready, listening,
-      reviewing, working, waiting for approval, speaking, and attention-needed
-      states. His animation reflects what the Assistant is doing without
-      replacing the exact text, evidence, or controls the user needs.</p>
-      <p>Voice interaction stays direct: select Loopy or use the Spacebar to
-      speak, review the transcribed request, and approve consequential actions
-      before they run. Responses can remain local through Ollama, Whisper,
-      Kokoro, and the Control Panel's local operational records.</p>
-      <p>A dedicated Loopy camera workflow captures only the Assistant window
-      through Windows Graphics Capture and publishes it to a local virtual
-      camera for Discord. It does not launch or modify Streamlabs, and the
-      Dashboard keeps camera, Assistant runtime, Discord voice, readiness, and
-      lifecycle controls visible and separate.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
       <img src="assets/infin8-editor.png" alt="Infin8 Editor local-first AI video editing studio" width="100%">
       <h3>Infin8 Editor — AI-Assisted Video Creation Studio</h3>
       <p><strong>Create, adapt, and finish widescreen and social video from one
@@ -265,6 +242,7 @@ licensing, and repeatable standalone/VST3 packaging.
     </td>
   </tr>
 </table>
+
 
 ## Skills and engineering focus
 
@@ -373,3 +351,4 @@ tools, audio products, or intelligent automation, I would be glad to talk.
   Designed and engineered by <strong>JacoInfin8</strong><br>
   Copyright © 2026 JacoInfin8. All rights reserved.
 </p>
+
