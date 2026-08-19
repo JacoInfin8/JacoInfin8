@@ -1,0 +1,60 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JacoInfin8/Infin8-Development-Control-Panel/main/schemas/applications.schema.json",
+  "schemaVersion": 1,
+  "organizations": [
+    {
+      "id": "infin8-apps",
+      "name": "Infin8 Apps",
+      "aliases": ["Infinite Applications"]
+    }
+  ],
+  "repository": {
+    "id": "jacoinfin8-profile",
+    "name": "JacoInfin8 GitHub Profile",
+    "organizationId": "infin8-apps",
+    "remote": "https://github.com/JacoInfin8/JacoInfin8.git",
+    "defaultBranch": "main"
+  },
+  "applications": [
+    {
+      "id": "infin8.profile.github",
+      "name": "JacoInfin8 GitHub Profile",
+      "aliases": ["JacoInfin8 Profile", "GitHub Profile", "Profile README"],
+      "organizationId": "infin8-apps",
+      "path": ".",
+      "kind": "profile",
+      "category": "public-brand-presence",
+      "status": "active",
+      "visibility": "public",
+      "customerFacing": true,
+      "description": "Public GitHub profile README for JacoInfin8, and the product and brand artwork it presents. This is one of the three places Infin8 imagery is published, alongside the product repositories and the Infin8 Apps website, and it is registered so the Assistant can tell which copy of an image is current.",
+      "primaryLanguage": "Markdown",
+      "framework": "GitHub Profile README",
+      "technologies": ["Markdown"],
+      "entryPoints": [
+        {
+          "name": "Profile README",
+          "path": "README.md",
+          "type": "project"
+        },
+        {
+          "name": "Published profile artwork",
+          "path": "assets",
+          "type": "directory"
+        }
+      ],
+      "commands": {},
+      "commandWorkingDirectory": ".",
+      "outputPaths": [],
+      "runtimeAssetManifest": null,
+      "installerType": null,
+      "updaterType": "Manual GitHub profile update",
+      "updateChannel": "production",
+      "customerDataPaths": [],
+      "licenseDataPaths": [],
+      "securityScanEnabled": false,
+      "releaseEnabled": false,
+      "integrations": []
+    }
+  ]
+}
