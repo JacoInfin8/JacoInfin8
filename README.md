@@ -68,6 +68,16 @@ Infin8 Assistant is the flagship platform for Infin8’s development and operati
 It is a local AI control surface that turns natural-language and voice requests into
 real, approval-gated operations inside the Infin8 Development Control Panel.
 
+<p align="center">
+  <img src="assets/infin8-assistant-email.webp" alt="Infin8 Assistant email management workspace: connected Gmail accounts, live inbox, compose-and-approve, and the voice command reference for reading, triaging, drafting and verifying mail" width="57%">
+  <img src="assets/fin.webp" alt="Fin, the face of Infin8 Assistant, answering beside a live Current Action panel" width="41%">
+</p>
+
+Business management is part of that surface rather than a separate tool: the assistant
+reads and triages connected mail by voice, drafts replies against real customer records,
+and holds every send behind the same approval gate as any other operation. Fin is the
+face of it, reporting what the assistant is doing while it works.
+
 ### Loopy — The Visual Voice of Infin8 Assistant
 
 <p align="center">
