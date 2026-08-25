@@ -127,9 +127,11 @@ Current games include:
 
 ### Infin8 Audio — flagship audio products
 
-These are four primary Infin8 Audio products: focused Windows audio tools
+These are six Infin8 Audio products: focused Windows audio tools
 with native realtime processing, embedded interfaces, persistent state, shared
-licensing, and repeatable standalone/VST3 packaging.
+licensing, and repeatable standalone/VST3 packaging. Infin8 Voice Mod is the
+standalone voice-transformation workspace; the other five products also ship
+as VST3 plugins.
 
 <table>
   <tr>
@@ -177,6 +179,26 @@ licensing, and repeatable standalone/VST3 packaging.
       <p><strong>Engineering:</strong> modular realtime C++ DSP, iPlug2,
       WebView2, host automation, visual metering, preset serialization, and
       standalone/VST3 delivery.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/infin8-synth.webp" alt="Infin8 Synth synthesis and sampling interface" width="100%">
+      <h3>Infin8 Synth</h3>
+      <p><strong>Synthesis, chromatic sample playback, and tempo-aware performance in one instrument.</strong></p>
+      <p>Combines oscillators, filtering, envelopes, modulation, a playable keyboard,
+      and a selected-sample layer that follows the current session.</p>
+      <p><strong>Engineering:</strong> realtime C++ DSP, iPlug2, WebView2,
+      MIDI, host tempo, automation, persistent state, and standalone/VST3 delivery.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/infin8-vox.webp" alt="Infin8 Vox voice tracking to MIDI interface" width="100%">
+      <h3>Infin8 Vox</h3>
+      <p><strong>Turn singing and humming into playable MIDI expression.</strong></p>
+      <p>Tracks voice pitch inside a defined note range and routes the result to a
+      selected MIDI channel for instruments, production, and live workflows.</p>
+      <p><strong>Engineering:</strong> realtime pitch detection, MIDI generation,
+      C++ DSP, iPlug2, WebView2, host tempo, and standalone/VST3 delivery.</p>
     </td>
   </tr>
 </table>
