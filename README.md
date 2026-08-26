@@ -96,6 +96,12 @@ assistant state while all consequential actions remain review-gated and auditabl
   </a>
 </p>
 
+<p align="center">
+  <a href="https://infin8apps.infinityfree.io/games/">
+    <img src="assets/infin8-education.png" alt="Infin8 Education game library featuring Forest Finder, Fur Finder, and Fish Finder" width="100%">
+  </a>
+</p>
+
 **Infin8 Arcade is the community and discovery layer of the Infin8 Apps website:**
 a growing collection of original games that are free to play directly in the
 browser, designed to bring players back through progression, competition, and
@@ -107,6 +113,8 @@ verified score submission rather than operating as isolated demos. Signed-in
 profiles provide persistent identity for competitive features and live lobbies.
 
 Current games include:
+
+**Infin8 Arcade**
 
 - **Infin8 Sk8er** — ride ten progressively longer themed terrain builds with
   long rails and ledges, manuals, forgiving combo continuation, wide landing
@@ -120,6 +128,18 @@ Current games include:
 - **Infin8 Exploder** — swap and match bright symbols to trigger chain
   explosions across ten escalating puzzle levels with stricter time windows,
   deeper cascade pressure, and full and per-level leaderboards.
+
+**Infin8 Education**
+
+- **Infin8 Forest Finder** — identify plants from their names and field hints
+  across ten global regions, then complete bonus gathering rounds that build
+  real objects from real materials.
+- **Infin8 Fur Finder** — identify geographically correct wild mammals, learn
+  their field marks, and complete wildlife history and conservation archive
+  rounds.
+- **Infin8 Fish Finder** — identify geographically correct aquatic animals
+  across ten freshwater and marine regions, then complete conservation archive
+  rounds.
 
 <p align="center">
   <strong><a href="https://infin8apps.infinityfree.io/games/">▶ Play Infin8 Arcade free</a></strong>
