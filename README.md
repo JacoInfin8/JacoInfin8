@@ -17,7 +17,7 @@
 
 <p>
   <strong><a href="https://infin8apps.infinityfree.io">Explore the Infin8 Apps ecosystem</a></strong><br>
-  Infin8 Assistant is now the primary platform for product direction, with Loopy
+  Infin8 Assistant is now the primary platform for product direction, with Fin
   as its interactive companion. Other software suites are now secondary and
   integrated through this runtime where practical.
   <br><strong><a href="https://infin8apps.infinityfree.io/games/">Play Infin8 Arcade — free in your browser</a></strong>
@@ -78,13 +78,13 @@ reads and triages connected mail by voice, drafts replies against real customer 
 and holds every send behind the same approval gate as any other operation. Fin is the
 face of it, reporting what the assistant is doing while it works.
 
-### Loopy — The Visual Voice of Infin8 Assistant
+### Fin — The Visual Voice of Infin8 Assistant
 
 <p align="center">
-  <img src="assets/loopy.png" alt="Loopy visual voice assistant showing an approval-gated response inside the Infin8 Control Panel" width="100%">
+  <img src="assets/fin-voice.png" alt="Fin visual voice assistant showing an approval-gated response inside the Infin8 Control Panel" width="100%">
 </p>
 
-Loopy gives Infin8 Assistant a clear interaction layer for voice workflows, approvals,
+Fin gives Infin8 Assistant a clear interaction layer for voice workflows, approvals,
 and Discord runtime visibility. The characterized status flow keeps users informed of
 assistant state while all consequential actions remain review-gated and auditable.
 
