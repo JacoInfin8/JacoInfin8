@@ -38,7 +38,8 @@ thoughtful interfaces, real user control, and safe automation.
 I build under **Infin8 Apps**, with hands-on ownership across product design,
 architecture, implementation, testing, packaging, and technical presentation.
 The current Infin8 Apps ecosystem is led by Infin8 Assistant for local work,
-business, and personal management; four developed Audio plugins; focused
+business, and personal management; Infin8 Audio Chain with six focused Audio
+products; focused
 Windows applications for creation and diagnostics; and Infin8 Arcade games
 with shared profiles, progression, controls, and leaderboards.
 
@@ -145,13 +146,23 @@ Current games include:
   <strong><a href="https://infin8apps.infinityfree.io/games/">▶ Play Infin8 Arcade free</a></strong>
 </p>
 
-### Infin8 Audio — flagship audio products
+### Infin8 Audio — one controlling Chain and six focused products
 
-These are six Infin8 Audio products: focused Windows audio tools
-with native realtime processing, embedded interfaces, persistent state, shared
-licensing, and repeatable standalone/VST3 packaging. Infin8 Voice Mod is the
-standalone voice-transformation workspace; the other five products also ship
-as VST3 plugins.
+Infin8 Audio Chain is the top-level standalone control surface for the complete
+Audio system. It owns audio and MIDI devices once, hosts all six product engines
+across serial, parallel, generator, and analyzer paths, coordinates tempo and
+safe monitoring, and records the compensated master. It is included in the
+Infin8 Audio tier and can open each product's full interface without giving up
+control of the running session.
+
+<p align="center">
+  <img src="assets/infin8-chain.webp" alt="Infin8 Audio Chain controlling the six Infin8 Audio product engines" width="100%">
+</p>
+
+The six focused products use native realtime processing, embedded interfaces,
+persistent state, shared licensing, and repeatable standalone/VST3 packaging.
+Infin8 Voice Mod is the standalone voice-transformation workspace; the other
+five products also ship as VST3 plugins.
 
 <table>
   <tr>
@@ -360,8 +371,8 @@ bounded retention, and human control over how detections are stored or used.
 - Advancing **Infin8 Assistant** into a voice-driven operational layer for the
   business, connecting AI conversations to real Control Panel tools and
   approval-gated actions.
-- Advancing Infin8 MicPre, Tune, Voice Mod, and Effects as the flagship Infin8 Audio
-  product line.
+- Advancing Infin8 Audio Chain as the top-level host for MicPre, Tune, Voice Mod,
+  Effects, Synth, and Vox.
 - Expanding Infin8 Editor across widescreen and social-video production.
 - Developing Infin8 Website Editor for faithful visual editing of existing
   websites, direct canvas controls, and controlled production export.
