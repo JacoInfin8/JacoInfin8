@@ -22,20 +22,20 @@ Every application remains registered in its repository's `applications.json`. Cr
 ## 2. Common lifecycle language
 
 - `development`: source or workflow work that is not customer-ready.
-- `official-beta`: a real versioned Infin8 release with installers, manifests, protected delivery, activation, and update pathways. Creator/sponsor access may be granted, customer messaging remains purchase-focused for the future, trials remain locked until an entitlement is issued, and beta/signing limitations are disclosed.
+- `official-release`: a real versioned Infin8 release with installers, manifests, protected delivery, activation, and update pathways. Creator/sponsor access may be granted while purchasing is disabled, customer messaging remains purchase-focused for the future, trials remain locked until an entitlement is issued, and unsigned-package limitations are disclosed.
 - `paid-production`: checkout is enabled, release artifacts are officially signed, hosted delivery is proven, commercial dependency obligations are packaged, and product-specific release gates pass.
 
-An official beta is an official release, but it is not a paid-production release. Do not describe a local build, package, draft release, or source check as deployed, uploaded, signed, or customer-delivered.
+An official release can be access-limited before paid production is enabled. Do not describe a local build, package, draft release, or source check as deployed, uploaded, signed, or customer-delivered.
 
 ## 3. Current Audio release program
 
-The current Audio channel is `official-beta`:
+The current Audio program is `official-release` on the `stable` update channel:
 
 - future customer packages and website placement stay purchase-focused;
-- approved creators and sponsors may receive official beta entitlements while public purchasing is disabled;
+- approved creators and sponsors may receive release entitlements while public purchasing is disabled;
 - Stripe checkout is currently disabled, so nothing is charged and no public purchase is implied;
 - every installer presents unlock options at the start and states that the product remains in trial mode until unlocked;
-- current Windows packages may be unsigned only when the unsigned-beta warning, official source, and SHA-256 verification path are shown;
+- current Windows packages may be unsigned only when the unsigned-installer warning, official source, and SHA-256 verification path are shown;
 - an Authenticode signature is mandatory before future paid production;
 - a product with stale or missing hardware proof remains blocked even if its source builds successfully.
 
@@ -71,7 +71,7 @@ Provider-specific convenience files may summarize navigation, but they may not i
 - Credentials, activation records, private signing keys, Stripe secrets, customer data, licensed voice assets, and private release tokens never enter source, logs intended for users, public website roots, profile repositories, or release assets.
 - Shared licensing stays under the Control Panel authority. Product repositories use thin adapters and do not fork entitlement or signature trust.
 - Release assets are immutable after customer availability; fixes use a new semantic version and coordinated tag.
-- Unsigned beta delivery is a temporary disclosed state, never a substitute for the paid-production signing gate.
+- Unsigned creator/sponsor delivery is a temporary disclosed state, never a substitute for the paid-production signing gate.
 
 ## 7. Synchronization and validation
 
@@ -83,4 +83,4 @@ Set-Location "E:\Infin8-Development-Control-Panel"
 .\scripts\validation\VALIDATE_ECOSYSTEM_ALIGNMENT.ps1
 ```
 
-`-Apply` updates synchronized contract copies and managed provider entry blocks without replacing repository-specific instructions. The validation command checks contract parity, provider coverage, repository identity/remotes, application manifests, the current Audio beta channel, and the complete Control Panel inventory. Edit the canonical contract and `config/infin8-ecosystem.json` together when the repository set or operating policy changes.
+`-Apply` updates synchronized contract copies and managed provider entry blocks without replacing repository-specific instructions. The validation command checks contract parity, provider coverage, repository identity/remotes, application manifests, the current Audio stable channel, and the complete Control Panel inventory. Edit the canonical contract and `config/infin8-ecosystem.json` together when the repository set or operating policy changes.
