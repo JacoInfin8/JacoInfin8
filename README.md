@@ -146,7 +146,9 @@ Current games include:
   <strong><a href="https://infin8apps.infinityfree.io/games/">▶ Play Infin8 Arcade free</a></strong>
 </p>
 
-### Infin8 Audio — one controlling Chain and six focused products
+### Infin8 Audio — one controlling Chain and seven focused products
+
+The current customer program is an official beta release with real installers, entitlement delivery, and update pathways. Product presentation remains purchase-focused for the future while purchasing is disabled; approved creator and sponsor access uses beta entitlements, and every app remains in trial mode until unlocked. Current beta installers are disclosed as unsigned and hash-verifiable. Code signing and intentionally enabled checkout remain future paid-production gates.
 
 Infin8 Audio Chain is the top-level standalone control surface for the complete
 Audio system. It owns audio and MIDI devices once, hosts all six product engines
