@@ -1,8 +1,8 @@
 <div align="center">
 
 <p>
-  <img src="assets/infin8-apps-poster.png" alt="Infin8 Apps brand" width="30%">
-  <img src="assets/infin8-apps-hero.png" alt="Infin8 Apps local-first software and intelligent automation" width="68%">
+  <img src="assets/infin8-apps-poster.webp" alt="Infin8 Apps brand" width="30%">
+  <img src="assets/infin8-apps-hero.webp" alt="Infin8 Apps local-first software and intelligent automation" width="68%">
 </p>
 
 # Hi, I'm Jaco
@@ -11,7 +11,7 @@
 
 <p>
   <a href="http://infin8apps.infinityfree.io">
-    <img src="assets/Infin8apps.infinityfree.io.png" alt="Infin8 Apps product website showcasing the software portfolio" width="100%">
+    <img src="assets/Infin8apps.infinityfree.io.webp" alt="Infin8 Apps product website showcasing the software portfolio" width="100%">
   </a>
 </p>
 
@@ -38,7 +38,7 @@ thoughtful interfaces, real user control, and safe automation.
 I build under **Infin8 Apps**, with hands-on ownership across product design,
 architecture, implementation, testing, packaging, and technical presentation.
 The current Infin8 Apps ecosystem is led by Infin8 Assistant for local work,
-business, and personal management; Infin8 Audio Chain with six focused Audio
+business, and personal management; Infin8 Audio Chain with seven focused Audio
 products; focused
 Windows applications for creation and diagnostics; and Infin8 Arcade games
 with shared profiles, progression, controls, and leaderboards.
@@ -62,7 +62,7 @@ that people can understand, control, and use on their own computers.
 ### Infin8 Assistant — Voice-Driven AI Business Operations
 
 <p align="center">
-  <img src="assets/infin8-assistant.png" alt="Infin8 Assistant forward-facing interface with local AI workflow controls" width="100%">
+  <img src="assets/Infin8Assistant-main.webp" alt="Infin8 Assistant forward-facing interface with local AI workflow controls" width="100%">
 </p>
 
 Infin8 Assistant is the flagship platform for Infin8’s development and operational layer.
@@ -82,7 +82,7 @@ face of it, reporting what the assistant is doing while it works.
 ### Fin — The Visual Voice of Infin8 Assistant
 
 <p align="center">
-  <img src="assets/fin-voice.png" alt="Fin visual voice assistant showing an approval-gated response inside the Infin8 Control Panel" width="100%">
+  <img src="assets/fin-voice.webp" alt="Fin visual voice assistant showing an approval-gated response inside the Infin8 Control Panel" width="100%">
 </p>
 
 Fin gives Infin8 Assistant a clear interaction layer for voice workflows, approvals,
@@ -93,13 +93,13 @@ assistant state while all consequential actions remain review-gated and auditabl
 
 <p align="center">
   <a href="https://infin8apps.infinityfree.io/games/">
-    <img src="assets/infin8-arcade.png" alt="Infin8 Arcade free browser game library" width="100%">
+    <img src="assets/Infin8Arcade-main.webp" alt="Infin8 Arcade free browser game library" width="100%">
   </a>
 </p>
 
 <p align="center">
   <a href="https://infin8apps.infinityfree.io/games/">
-    <img src="assets/infin8-education.png" alt="Infin8 Education game library featuring Forest Finder, Fur Finder, and Fish Finder" width="100%">
+    <img src="assets/Infin8Education-main.webp" alt="Infin8 Education game library featuring Forest Finder, Fur Finder, and Fish Finder" width="100%">
   </a>
 </p>
 
@@ -151,25 +151,35 @@ Current games include:
 The current customer program is an official release with real installers, entitlement delivery, and update pathways. Product presentation remains purchase-focused for the future while purchasing is disabled; approved creator and sponsor access uses release entitlements, and every app remains in trial mode until unlocked. Current installers are disclosed as unsigned and hash-verifiable. Code signing and intentionally enabled checkout remain future paid-production gates.
 
 Infin8 Audio Chain is the top-level standalone control surface for the complete
-Audio system. It owns audio and MIDI devices once, hosts all six product engines
+Audio system. It owns audio and MIDI devices once, hosts all seven product engines
 across serial, parallel, generator, and analyzer paths, coordinates tempo and
 safe monitoring, and records the compensated master. It is included in the
 Infin8 Audio tier and can open each product's full interface without giving up
 control of the running session.
 
 <p align="center">
-  <img src="assets/infin8-chain.webp" alt="Infin8 Audio Chain controlling the six Infin8 Audio product engines" width="100%">
+  <img src="assets/Infin8Chain-main.webp" alt="Infin8 Audio Chain controlling the seven Infin8 Audio product engines" width="100%">
 </p>
 
-The six focused products use native realtime processing, embedded interfaces,
+The seven focused products use native realtime processing, embedded interfaces,
 persistent state, shared licensing, and repeatable standalone/VST3 packaging.
 Infin8 Voice Mod is the standalone voice-transformation workspace; the other
-five products also ship as VST3 plugins.
+six products also ship as VST3 plugins.
+
+### Infin8 Amp — Guitar and Instrument Processing
+
+<p align="center">
+  <img src="assets/Infin8Amp-main.webp" alt="Infin8 Amp guitar and instrument processing interface" width="100%">
+</p>
+
+Infin8 Amp combines amplifier voicings, cabinets and microphone responses,
+pedals, local cabinet IR loading, modulation, delay, reverb, EQ, and tuning.
+It works as a standalone application, VST3 effect, or Infin8 Audio Chain node.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/infin8-micpre.webp" alt="Infin8 MicPre vocal production interface" width="100%">
+      <img src="assets/Infin8MicPre-main.webp" alt="Infin8 MicPre vocal production interface" width="100%">
       <h3>Infin8 MicPre</h3>
       <p><strong>A complete vocal front end in one workspace.</strong></p>
       <p>Combines gain staging, cleanup, dynamics, tone shaping, output safety,
@@ -180,7 +190,7 @@ five products also ship as VST3 plugins.
       standalone/VST3 delivery.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/infin8-tune.webp" alt="Infin8 Tune realtime vocal correction interface" width="100%">
+      <img src="assets/Infin8Tune-main.webp" alt="Infin8 Tune realtime vocal correction interface" width="100%">
       <h3>Infin8 Tune</h3>
       <p><strong>Realtime vocal correction with musical control.</strong></p>
       <p>Provides key-and-scale targeting, correction character, pitch-motion
@@ -193,7 +203,7 @@ five products also ship as VST3 plugins.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/infin8-voice-mod.webp" alt="Infin8 Voice Mod realtime voice transformation interface" width="100%">
+      <img src="assets/Infin8VoiceMod-main.webp" alt="Infin8 Voice Mod realtime voice transformation interface" width="100%">
       <h3>Infin8 Voice Mod</h3>
       <p><strong>Realtime voice transformation with a complete local workflow.</strong></p>
       <p>Turns trained voice packages into a usable production system with
@@ -204,7 +214,7 @@ five products also ship as VST3 plugins.
       packaging, and shared licensing.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/infin8-effects.webp" alt="Infin8 Effects sound-processing interface" width="100%">
+      <img src="assets/Infin8Effects-main.webp" alt="Infin8 Effects sound-processing interface" width="100%">
       <h3>Infin8 Effects</h3>
       <p><strong>Sculpt, move, and finish sound in one effects environment.</strong></p>
       <p>Brings dynamics, saturation, limiting, modulation, space, delay, and
@@ -216,7 +226,7 @@ five products also ship as VST3 plugins.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/infin8-synth.webp" alt="Infin8 Synth synthesis and sampling interface" width="100%">
+      <img src="assets/Infin8Synth-main.webp" alt="Infin8 Synth synthesis and sampling interface" width="100%">
       <h3>Infin8 Synth</h3>
       <p><strong>Synthesis, chromatic sample playback, and tempo-aware performance in one instrument.</strong></p>
       <p>Combines oscillators, filtering, envelopes, modulation, a playable keyboard,
@@ -225,7 +235,7 @@ five products also ship as VST3 plugins.
       MIDI, host tempo, automation, persistent state, and standalone/VST3 delivery.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/infin8-vox.webp" alt="Infin8 Vox voice tracking to MIDI interface" width="100%">
+      <img src="assets/Infin8Vox-main.webp" alt="Infin8 Vox voice tracking to MIDI interface" width="100%">
       <h3>Infin8 Vox</h3>
       <p><strong>Turn singing and humming into playable MIDI expression.</strong></p>
       <p>Tracks voice pitch inside a defined note range and routes the result to a
@@ -241,7 +251,7 @@ five products also ship as VST3 plugins.
 <table>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <img src="assets/infin8-editor.png" alt="Infin8 Editor local-first AI video editing studio" width="100%">
+      <img src="assets/Infin8Editor-main.webp" alt="Infin8 Editor local-first AI video editing studio" width="100%">
       <h3>Infin8 Editor — AI-Assisted Video Creation Studio</h3>
       <p><strong>Create, adapt, and finish widescreen and social video from one
       local-first editing workspace.</strong></p>
@@ -261,11 +271,11 @@ five products also ship as VST3 plugins.
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <img src="assets/website-builder.png" alt="Infin8 Website Editor visual website reconstruction workspace" width="100%">
-      <h3>Infin8 Website Editor — Visual Website Reconstruction Studio</h3>
+      <img src="assets/Infin8Design-main.webp" alt="Infin8 Design visual website reconstruction workspace" width="100%">
+      <h3>Infin8 Design — Visual Website Reconstruction Studio</h3>
       <p><strong>Open real website folders, preserve their design, and evolve
       them through a controlled local editing workflow.</strong></p>
-      <p>Infin8 Website Editor loads existing website repositories as editable
+      <p>Infin8 Design loads existing website repositories as editable
       digital twins while preserving hierarchy, CSS, media, fonts, responsive
       rules, navigation, and filenames. Direct selection, movement, resizing,
       keyboard text editing, exact property controls, preview, backup,
@@ -279,7 +289,7 @@ five products also ship as VST3 plugins.
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <img src="assets/infin8-optimizer.png" alt="Infin8 Optimizer Windows performance and diagnostics dashboard" width="100%">
+      <img src="assets/Infin8Optimizer-main.webp" alt="Infin8 Optimizer Windows performance and diagnostics dashboard" width="100%">
       <h3>Infin8 Optimizer — Windows Performance and Diagnostics</h3>
       <p><strong>Understand the PC, verify its condition, and make bounded
       performance improvements from one native workspace.</strong></p>
@@ -292,7 +302,7 @@ five products also ship as VST3 plugins.
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <img src="assets/network-checker.png" alt="Infin8 Sentinel network and process intelligence dashboard" width="100%">
+      <img src="assets/Infin8Sentinel-main.webp" alt="Infin8 Sentinel network and process intelligence dashboard" width="100%">
       <h3>Infin8 Sentinel — Network and Process Intelligence</h3>
       <p><strong>Explain local network activity, process ownership, protected
       routes, stability, and security signals without inspecting private
@@ -308,6 +318,15 @@ five products also ship as VST3 plugins.
   </tr>
 </table>
 
+
+## Additional tools created
+
+Alongside the public Infin8 ecosystem, I have built private tools for AI
+voice-over production (Voice Addition), reviewed lyric alignment and Premiere
+project preparation (Premiere Lyric Tool), audio-device profile switching,
+selective media recovery, local-model experiments, and paper-trading research.
+These demonstrate supporting engineering work; they are not public Infin8
+products or customer downloads.
 
 ## Skills and engineering focus
 
@@ -373,10 +392,10 @@ bounded retention, and human control over how detections are stored or used.
 - Advancing **Infin8 Assistant** into a voice-driven operational layer for the
   business, connecting AI conversations to real Control Panel tools and
   approval-gated actions.
-- Advancing Infin8 Audio Chain as the top-level host for MicPre, Tune, Voice Mod,
+- Advancing Infin8 Audio Chain as the top-level host for Amp, MicPre, Tune, Voice Mod,
   Effects, Synth, and Vox.
 - Expanding Infin8 Editor across widescreen and social-video production.
-- Developing Infin8 Website Editor for faithful visual editing of existing
+- Developing Infin8 Design for faithful visual editing of existing
   websites, direct canvas controls, and controlled production export.
 - Developing Infin8 Sentinel into a plain-language network and process
   intelligence hub for local networks, protected development/service routes,
