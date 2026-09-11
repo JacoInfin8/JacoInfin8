@@ -10,17 +10,17 @@
 ### Product engineer · Local AI systems · Creative software · Web gaming
 
 <p>
-  <a href="http://infin8apps.infinityfree.io">
+  <a href="https://infin8apps.com">
     <img src="assets/Infin8apps.infinityfree.io.webp" alt="Infin8 Apps product website showcasing the software portfolio" width="100%">
   </a>
 </p>
 
 <p>
-  <strong><a href="https://infin8apps.infinityfree.io">Explore the Infin8 Apps ecosystem</a></strong><br>
+  <strong><a href="https://infin8apps.com">Explore the Infin8 Apps ecosystem</a></strong><br>
   Infin8 Assistant is now the primary platform for product direction, with Fin
   as its interactive companion. Other software suites are now secondary and
   integrated through this runtime where practical.
-  <br><strong><a href="https://infin8apps.infinityfree.io/games/">Play Infin8 Arcade — free in your browser</a></strong>
+  <br><strong><a href="https://infin8apps.com/games/">Play Infin8 Arcade — free in your browser</a></strong>
 </p>
 
 I design local-first products that combine native performance, practical AI,
@@ -92,13 +92,13 @@ assistant state while all consequential actions remain review-gated and auditabl
 ### Infin8 Arcade — free browser gaming, leaderboards, and multiplayer
 
 <p align="center">
-  <a href="https://infin8apps.infinityfree.io/games/">
+  <a href="https://infin8apps.com/games/">
     <img src="assets/Infin8Arcade-main.webp" alt="Infin8 Arcade free browser game library" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://infin8apps.infinityfree.io/games/">
+  <a href="https://infin8apps.com/games/">
     <img src="assets/Infin8Education-main.webp" alt="Infin8 Education game library featuring Forest Finder, Fur Finder, and Fish Finder" width="100%">
   </a>
 </p>
@@ -143,7 +143,7 @@ Current games include:
   rounds.
 
 <p align="center">
-  <strong><a href="https://infin8apps.infinityfree.io/games/">▶ Play Infin8 Arcade free</a></strong>
+  <strong><a href="https://infin8apps.com/games/">▶ Play Infin8 Arcade free</a></strong>
 </p>
 
 ### Infin8 Audio — one controlling Chain and seven focused products
