@@ -389,8 +389,8 @@ bounded retention, and human control over how detections are stored or used.
 - Advancing **Infin8 Assistant** into a voice-driven operational layer for the
   business, connecting AI conversations to real Control Panel tools and
   approval-gated actions.
-- Advancing Infin8 Audio Chain as the top-level host for Amp, MicPre, Tune, Voice Mod,
-  Effects, Synth, and Vox.
+- Advancing Infin8 Audio Chain as the top-level host for Synth, MicPre, Tune, Effects,
+  Amp, Voice Mod, and Vox.
 - Expanding Infin8 Editor across widescreen and social-video production.
 - Developing Infin8 Design for faithful visual editing of existing
   websites, direct canvas controls, and controlled production export.
