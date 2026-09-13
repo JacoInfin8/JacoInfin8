@@ -166,18 +166,17 @@ persistent state, shared licensing, and repeatable standalone/VST3 packaging.
 Infin8 Voice Mod is the standalone voice-transformation workspace; the other
 six products also ship as VST3 plugins.
 
-### Infin8 Amp — Guitar and Instrument Processing
-
-<p align="center">
-  <img src="assets/Infin8Amp-main.webp" alt="Infin8 Amp guitar and instrument processing interface" width="100%">
-</p>
-
-Infin8 Amp combines amplifier voicings, cabinets and microphone responses,
-pedals, local cabinet IR loading, modulation, delay, reverb, EQ, and tuning.
-It works as a standalone application, VST3 effect, or Infin8 Audio Chain node.
-
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <img src="assets/Infin8Synth-main.webp" alt="Infin8 Synth synthesis and sampling interface" width="100%">
+      <h3>Infin8 Synth</h3>
+      <p><strong>Synthesis, chromatic sample playback, and tempo-aware performance in one instrument.</strong></p>
+      <p>Combines oscillators, filtering, envelopes, modulation, a playable keyboard,
+      and a selected-sample layer that follows the current session.</p>
+      <p><strong>Engineering:</strong> realtime C++ DSP, iPlug2, WebView2,
+      MIDI, host tempo, automation, persistent state, and standalone/VST3 delivery.</p>
+    </td>
     <td width="50%" valign="top">
       <img src="assets/Infin8MicPre-main.webp" alt="Infin8 MicPre vocal production interface" width="100%">
       <h3>Infin8 MicPre</h3>
@@ -189,6 +188,8 @@ It works as a standalone application, VST3 effect, or Infin8 Audio Chain node.
       MIDI, metering, host automation, preset state, licensing, and
       standalone/VST3 delivery.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/Infin8Tune-main.webp" alt="Infin8 Tune realtime vocal correction interface" width="100%">
       <h3>Infin8 Tune</h3>
@@ -199,19 +200,6 @@ It works as a standalone application, VST3 effect, or Infin8 Audio Chain node.
       <p><strong>Engineering:</strong> realtime pitch analysis and correction,
       C++ DSP, iPlug2, WebView2, automation, metering, preset recall, and
       standalone/VST3 delivery.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/Infin8VoiceMod-main.webp" alt="Infin8 Voice Mod realtime voice transformation interface" width="100%">
-      <h3>Infin8 Voice Mod</h3>
-      <p><strong>Realtime voice transformation with a complete local workflow.</strong></p>
-      <p>Turns trained voice packages into a usable production system with
-      voice-library management, conversion controls, device routing, presets,
-      runtime configuration, telemetry, and assisted model training.</p>
-      <p><strong>Engineering:</strong> native C++ host, iPlug2, WebView2, RVC,
-      PyTorch and ONNX runtimes, GPU profiles, device fallback, content
-      packaging, and shared licensing.</p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/Infin8Effects-main.webp" alt="Infin8 Effects sound-processing interface" width="100%">
@@ -226,14 +214,23 @@ It works as a standalone application, VST3 effect, or Infin8 Audio Chain node.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/Infin8Synth-main.webp" alt="Infin8 Synth synthesis and sampling interface" width="100%">
-      <h3>Infin8 Synth</h3>
-      <p><strong>Synthesis, chromatic sample playback, and tempo-aware performance in one instrument.</strong></p>
-      <p>Combines oscillators, filtering, envelopes, modulation, a playable keyboard,
-      and a selected-sample layer that follows the current session.</p>
-      <p><strong>Engineering:</strong> realtime C++ DSP, iPlug2, WebView2,
-      MIDI, host tempo, automation, persistent state, and standalone/VST3 delivery.</p>
+      <img src="assets/Infin8Amp-main.webp" alt="Infin8 Amp guitar and instrument processing interface" width="100%">
+      <h3>Infin8 Amp</h3>
+      <p>Infin8 Amp combines amplifier voicings, cabinets and microphone responses, pedals, local cabinet IR loading, modulation, delay, reverb, EQ, and tuning. It works as a standalone application, VST3 effect, or Infin8 Audio Chain node.</p>
     </td>
+    <td width="50%" valign="top">
+      <img src="assets/Infin8VoiceMod-main.webp" alt="Infin8 Voice Mod realtime voice transformation interface" width="100%">
+      <h3>Infin8 Voice Mod</h3>
+      <p><strong>Realtime voice transformation with a complete local workflow.</strong></p>
+      <p>Turns trained voice packages into a usable production system with
+      voice-library management, conversion controls, device routing, presets,
+      runtime configuration, telemetry, and assisted model training.</p>
+      <p><strong>Engineering:</strong> native C++ host, iPlug2, WebView2, RVC,
+      PyTorch and ONNX runtimes, GPU profiles, device fallback, content
+      packaging, and shared licensing.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/Infin8Vox-main.webp" alt="Infin8 Vox voice tracking to MIDI interface" width="100%">
       <h3>Infin8 Vox</h3>
