@@ -1,0 +1,26 @@
+# Public profile: deny everything except explicitly reviewed display files.
+/*
+!/.gitignore
+!/README.md
+!/assets/
+/assets/*
+!/assets/FlowMyGosh-landing.webp
+!/assets/FlowMyGosh-studio.webp
+!/assets/infin8-apps-hero.webp
+!/assets/infin8-apps-poster.webp
+!/assets/Infin8Amp-main.webp
+!/assets/Infin8apps.infinityfree.io.webp
+!/assets/Infin8Arcade-main.webp
+!/assets/Infin8Assistant-main.webp
+!/assets/Infin8Chain-main.webp
+!/assets/Infin8Design-main.webp
+!/assets/Infin8Editor-main.webp
+!/assets/Infin8Education-main.webp
+!/assets/Infin8Effects-main.webp
+!/assets/Infin8MicPre-main.webp
+!/assets/Infin8Optimizer-main.webp
+!/assets/Infin8Sentinel-main.webp
+!/assets/Infin8Synth-main.webp
+!/assets/Infin8Tune-main.webp
+!/assets/Infin8VoiceMod-main.webp
+!/assets/Infin8Vox-main.webp
