@@ -41,7 +41,9 @@ The current Infin8 Apps ecosystem is led by Infin8 Assistant for local work,
 business, and personal management; Infin8 Audio Chain with seven focused Audio
 products; focused
 Windows applications for creation and diagnostics; and Infin8 Arcade games
-with shared profiles, progression, controls, and leaderboards.
+with shared profiles, progression, controls, and leaderboards. Infin8 Hosting &
+Web Services now brings the same product thinking to web design, managed
+delivery, maintenance, and customer support.
 
 The common goal is simple: turn technically difficult workflows into software
 that people can understand, control, and use on their own computers.
@@ -53,6 +55,7 @@ that people can understand, control, and use on their own computers.
 | **Realtime audio** | Native DSP, voice transformation, vocal production, pitch processing, MIDI, metering, and standalone/VST3 delivery. |
 | **Web gaming & community** | Free browser games, shared player profiles, score tracking, leaderboards, control profiles, progression, and multiplayer lobbies. |
 | **Windows products** | C++, Rust, Qt, Tauri, Electron, React, Python, WebView2, local services, packaging, and hardware-aware tools. |
+| **Hosting & web services** | Responsive web design, website reconstruction, managed hosting, secure deployment, content systems, support intake, and ongoing site management. |
 
 > **Open to:** product-engineering opportunities, technical collaboration,
 > private demonstrations, partnerships, and investment conversations.
@@ -65,7 +68,24 @@ that people can understand, control, and use on their own computers.
   <img src="assets/Infin8Assistant-main.webp" alt="Infin8 Assistant forward-facing interface with local AI workflow controls" width="100%">
 </p>
 
-Infin8 Assistant brings local AI, voice interaction, and everyday productivity into one desktop workspace.
+Infin8 Assistant brings local AI, voice interaction, and everyday productivity into one desktop workspace. Fin is its visual voice and the coordinating intelligence for the wider Infin8 Apps family: he helps connect current product knowledge, business records, web services, games, creative tools, and support workflows through the Assistant's approved operations. The goal is a useful answer grounded in current information, with important actions kept visible and under the operator's control.
+
+#### Fin — the Infin8 Apps companion
+
+Fin is being carried across the desktop, website, games, streaming tools, and
+customer support as one recognizable assistant. His refreshed 2026 character
+package is designed for clean high-resolution website artwork, green-screen
+compositing, responsive 2D animation, and a future full 3D game companion. The
+standard animation set covers idle, movement, waving, jumping, failure,
+waiting, active work, review, and directional looks. Animation and game
+integration remain in active development while the character, voice, and
+interaction contracts are brought into parity.
+
+The Assistant's knowledge layer is designed around current product records and
+searchable project information rather than a frozen brochure. Fin can use the
+most capable available reasoning route for a request, fall back to free or
+local models when needed, and keep private work on the local machine when the
+task requires it.
 
 ### FlowMyGosh — Virtual Creator Studio
 
@@ -89,8 +109,9 @@ by its main artists and promoters, Joshua and Princess Gillian.
 - One asset library shared by every project, with songs, clips and images.
 - Twenty animated lyric styles plus reusable presets, rendered for YouTube,
   Shorts and TikTok.
-- Sign in with the same Infin8 Apps account (Google) used across the website and
-  Arcade. Free renders are 720p with a watermark; paid plans render at 1080p.
+- FlowMyGosh has its own hosted account and project experience while its access
+  and commerce work continues toward broader public availability. Free renders
+  are planned at 720p with a watermark; paid plans are designed for 1080p.
 
 <p align="center">
   <strong><a href="https://flowmygosh.infin8apps.com">▶ Open FlowMyGosh — early access</a></strong>
@@ -139,6 +160,8 @@ Current games include:
 - **Infin8 IceFishin** — build a persistent ice-fishing career across deeper
   frozen-water zones: catch and inventory species, earn career XP, sell fish,
   upgrade realistic winter gear, and carry progression across devices.
+- **Gillian's Vibe Run** — join Princess Gillian's community, run together,
+  and compete on a dedicated Vibe Run leaderboard.
 
 **Infin8 Education**
 
@@ -250,6 +273,23 @@ six products also ship as VST3 plugins.
     </td>
   </tr>
 </table>
+
+### Infin8 Hosting & Web Services
+
+Infin8 Hosting & Web Services is the web-facing delivery practice behind the
+Infin8 Apps sites and customer projects. It combines responsive web design,
+faithful reconstruction of existing sites, content and media management,
+managed hosting, secure release workflows, performance care, and ongoing
+support. The work is intended for creators, small businesses, communities, and
+product teams that need a site designed, launched, and looked after as one
+service.
+
+Current web work includes the Infin8 Apps product site, Infin8 Arcade, the
+FlowMyGosh creator studio, support and account experiences, and the foundations
+for hosted web applications that connect to real product data. Web design and
+management are treated as a continuing relationship: understand the existing
+site, preserve what works, improve it deliberately, and keep future updates
+reviewable and maintainable.
 
 ### Developed Infin8 Apps products
 
@@ -382,12 +422,19 @@ bounded retention, and human control over how detections are stored or used.
 
 ## What I'm building now
 
-- Launching **FlowMyGosh** at [flowmygosh.infin8apps.com](https://flowmygosh.infin8apps.com),
-  the Virtual Creator Studio for lyric videos, in early access with GOSH.
+- Advancing **FlowMyGosh** at [flowmygosh.infin8apps.com](https://flowmygosh.infin8apps.com),
+  the Virtual Creator Studio for lyric videos, with GOSH, while hosted access,
+  account, and commerce work continue through their product-specific rollout.
 - Expanding **Infin8 Arcade** as a fully free gaming destination for the Infin8
   Apps website, with original games, persistent profiles, leaderboards,
   progression, multiplayer lobbies, and community-driven repeat visits.
-- Advancing **Infin8 Assistant** for local AI and voice-driven productivity.
+- Advancing **Infin8 Assistant** and Fin as the coordinating local AI, voice,
+  business, support, and operations platform for the wider Infin8 Apps family.
+- Building **Infin8 Hosting & Web Services** around responsive web design,
+  managed hosting, secure delivery, performance, maintenance, and customer
+  support for Infin8 and partner projects.
+- Refreshing Fin's high-resolution 2D and future 3D character presentation,
+  including clean compositing artwork and a consistent nine-row animation set.
 - Advancing Infin8 Audio Chain as the top-level host for Synth, MicPre, Tune, Effects,
   Amp, Voice Mod, and Vox.
 - Expanding Infin8 Editor across widescreen and social-video production.
@@ -430,4 +477,3 @@ tools, audio products, or intelligent automation, I would be glad to talk.
   Designed and engineered by <strong>JacoInfin8</strong><br>
   Copyright © 2026 JacoInfin8. All rights reserved.
 </p>
-
