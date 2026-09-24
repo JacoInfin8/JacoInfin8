@@ -11,7 +11,7 @@
 
 <p>
   <a href="https://infin8apps.com">
-    <img src="assets/Infin8apps.infinityfree.io.webp" alt="Infin8 Apps product website showcasing the software portfolio" width="100%">
+    <img src="assets/Infin8apps-website.webp" alt="Infin8 Apps product website showcasing the software portfolio" width="100%">
   </a>
 </p>
 
