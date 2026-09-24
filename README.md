@@ -85,7 +85,9 @@ The Assistant's knowledge layer is designed around current product records and
 searchable project information rather than a frozen brochure. Fin can use the
 most capable available reasoning route for a request, fall back to free or
 local models when needed, and keep private work on the local machine when the
-task requires it.
+task requires it. The same direction covers stream co-hosting, chat commands,
+automated content helpers, support intake and triage, business records, and
+operator management workflows.
 
 ### FlowMyGosh — Virtual Creator Studio
 
