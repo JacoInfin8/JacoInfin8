@@ -201,7 +201,7 @@ six products also ship as VST3 plugins.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <img src="assets/Infin8Synth-main.webp" alt="Infin8 Synth synthesis and sampling interface" width="100%">
       <h3>Infin8 Synth</h3>
       <p><strong>Synthesis, chromatic sample playback, and tempo-aware performance in one instrument.</strong></p>
@@ -210,7 +210,9 @@ six products also ship as VST3 plugins.
       <p><strong>Engineering:</strong> realtime C++ DSP, iPlug2, WebView2,
       MIDI, host tempo, automation, persistent state, and standalone/VST3 delivery.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <img src="assets/Infin8MicPre-main.webp" alt="Infin8 MicPre vocal production interface" width="100%">
       <h3>Infin8 MicPre</h3>
       <p><strong>A complete vocal front end in one workspace.</strong></p>
@@ -223,7 +225,7 @@ six products also ship as VST3 plugins.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <img src="assets/Infin8Tune-main.webp" alt="Infin8 Tune realtime vocal correction interface" width="100%">
       <h3>Infin8 Tune</h3>
       <p><strong>Realtime vocal correction with musical control.</strong></p>
@@ -234,7 +236,9 @@ six products also ship as VST3 plugins.
       C++ DSP, iPlug2, WebView2, automation, metering, preset recall, and
       standalone/VST3 delivery.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <img src="assets/Infin8Effects-main.webp" alt="Infin8 Effects sound-processing interface" width="100%">
       <h3>Infin8 Effects</h3>
       <p><strong>Sculpt, move, and finish sound in one effects environment.</strong></p>
@@ -246,12 +250,14 @@ six products also ship as VST3 plugins.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <img src="assets/Infin8Amp-main.webp" alt="Infin8 Amp guitar and instrument processing interface" width="100%">
       <h3>Infin8 Amp</h3>
       <p>Infin8 Amp combines amplifier voicings, cabinets and microphone responses, pedals, local cabinet IR loading, modulation, delay, reverb, EQ, and tuning. It works as a standalone application, VST3 effect, or Infin8 Audio Chain node.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <img src="assets/Infin8VoiceMod-main.webp" alt="Infin8 Voice Mod realtime voice transformation interface" width="100%">
       <h3>Infin8 Voice Mod</h3>
       <p><strong>Realtime voice transformation with a complete local workflow.</strong></p>
@@ -264,7 +270,7 @@ six products also ship as VST3 plugins.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <img src="assets/Infin8Vox-main.webp" alt="Infin8 Vox voice tracking to MIDI interface" width="100%">
       <h3>Infin8 Vox</h3>
       <p><strong>Turn singing and humming into playable MIDI expression.</strong></p>
