@@ -68,7 +68,7 @@ that people can understand, control, and use on their own computers.
   <img src="assets/Infin8Assistant-main.webp" alt="Infin8 Assistant forward-facing interface with local AI workflow controls" width="100%">
 </p>
 
-Infin8 Assistant brings local AI, voice interaction, and everyday productivity into one desktop workspace. Fin is its visual voice and the coordinating intelligence for the wider Infin8 Apps family: he helps connect current product knowledge, business records, web services, games, creative tools, and support workflows through the Assistant's approved operations. The goal is a useful answer grounded in current information, with important actions kept visible and under the operator's control.
+Infin8 Assistant is an internal desktop workspace in active development, combining AI, voice interaction and everyday productivity. It is not currently offered as a customer product. Fin is its visual voice and the coordinating intelligence for the wider Infin8 Apps family: he helps connect current product knowledge, business records, web services, games, creative tools, and support workflows through the Assistant's approved operations. The goal is a useful answer grounded in current information, with important actions kept visible and under the operator's control.
 
 #### Fin — the Infin8 Apps companion
 
