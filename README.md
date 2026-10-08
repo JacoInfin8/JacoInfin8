@@ -292,6 +292,8 @@ support. The work is intended for creators, small businesses, communities, and
 product teams that need a site designed, launched, and looked after as one
 service.
 
+Current web hosting uses Cloudflare, with local processing for creative workloads.
+
 Current web work includes the Infin8 Apps product site, Infin8 Arcade, the
 FlowMyGosh creator studio, support and account experiences, and the foundations
 for hosted web applications that connect to real product data. Web design and
