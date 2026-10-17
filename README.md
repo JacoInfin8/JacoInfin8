@@ -26,8 +26,8 @@
 I design local-first products that combine native performance, practical AI,
 thoughtful interfaces, real user control, and safe automation.
 
-[Featured work](#featured-work) · [Skills](#skills-and-engineering-focus) ·
-[Current focus](#what-im-building-now) · [Connect](#lets-connect)
+[Featured work](#featured-work) · [Public portfolio report](ECOSYSTEM-PORTFOLIO-2026.md) ·
+[Skills](#skills-and-engineering-focus) · [Current focus](#what-im-building-now) · [Connect](#lets-connect)
 
 </div>
 
@@ -85,9 +85,10 @@ The Assistant's knowledge layer is designed around current product records and
 searchable project information rather than a frozen brochure. Fin can use the
 most capable available reasoning route for a request, fall back to free or
 local models when needed, and keep private work on the local machine when the
-task requires it. The same direction covers stream co-hosting, chat commands,
-automated content helpers, support intake and triage, business records, and
-operator management workflows.
+task requires it. The cloud-hosted Fin Assistant handles public Discord text commands, stream co-hosting,
+chat assistance and bounded support interactions; the separate local Control Panel
+handles approved voice, coding, private project and deployment operations. AI and
+connected-service features vary by account, permissions and runtime readiness.
 
 ### FlowMyGosh — Virtual Creator Studio
 
@@ -109,11 +110,14 @@ built with **GOSH**, the AI music group, music channel and creation platform led
 by its main artists and promoters, Joshua and Princess Gillian.
 
 - One asset library shared by every project, with songs, clips and images.
-- Twenty animated lyric styles plus reusable presets, rendered for YouTube,
-  Shorts and TikTok.
-- FlowMyGosh has its own hosted account and project experience while its access
-  and commerce work continues toward broader public availability. Free renders
-  are planned at 720p with a watermark; paid plans are designed for 1080p.
+- Animated lyric styles and reusable presets for horizontal and vertical music videos,
+  with workspace media, editing controls and render workflows.
+- Lyric positioning, scene previews and mobile editing are in active refinement;
+  assisted scene direction and automated rendering remain release-gated.
+- FlowMyGosh has its own hosted accounts and project experience, with an
+  authenticated private rendering host. Free and paid rendering plans remain
+  subject to the product's live rollout and access rules; availability must be
+  verified in the hosted app, not inferred from development previews.
 
 <p align="center">
   <strong><a href="https://flowmygosh.infin8apps.com">▶ Open FlowMyGosh — early access</a></strong>
@@ -138,10 +142,11 @@ a growing collection of original games that are free to play directly in the
 browser, designed to bring players back through progression, competition, and
 multiplayer while introducing more people to the wider Infin8 Apps ecosystem.
 
-The Arcade uses shared player profiles, cross-device progression, customizable
-control profiles, per-game and per-level leaderboards, top-player cards, and
-verified score submission rather than operating as isolated demos. Signed-in
-profiles provide persistent identity for competitive features and live lobbies.
+The Arcade combines shared player profiles, cross-device progression, customizable
+controls, per-game leaderboards, player cards and multiplayer foundations.
+**Result verification varies by game:** some browser-only scores are explicitly
+unverified until a server-authoritative adapter is implemented. Live multiplayer
+availability is game-specific and must be tested, not assumed from UI presence.
 
 Current games include:
 
@@ -159,11 +164,13 @@ Current games include:
 - **Infin8 Exploder** — swap and match bright symbols to trigger chain
   explosions across ten escalating puzzle levels with stricter time windows,
   deeper cascade pressure, and full and per-level leaderboards.
-- **Infin8 IceFishin** — build a persistent ice-fishing career across deeper
-  frozen-water zones: catch and inventory species, earn career XP, sell fish,
-  upgrade realistic winter gear, and carry progression across devices.
-- **Gillian's Vibe Run** — join Princess Gillian's community, run together,
-  and compete on a dedicated Vibe Run leaderboard.
+- **Infin8 IceFishin** — build a persistent ice-fishing career, catch and inventory
+  species, upgrade winter gear and carry signed-in progression across devices;
+  Snocross systems are evolving alongside the shared snowmobile physics.
+- **Infin8 Sleddin** — a Canadian-inspired 3D snowmobile playground with four
+  regional tracks, freestyle tricks, eight-gate Snocross lap racing, camera
+  views (hood, chase, far, high), and keyboard, controller and touch input.
+  Racing and trick systems are still being refined and verified on devices.
 
 **Infin8 Education**
 
@@ -432,12 +439,12 @@ bounded retention, and human control over how detections are stored or used.
 
 ## What I'm building now
 
-- Advancing **FlowMyGosh** at [flowmygosh.infin8apps.com](https://flowmygosh.infin8apps.com),
-  the Virtual Creator Studio for lyric videos, with GOSH, while hosted access,
-  account, and commerce work continue through their product-specific rollout.
-- Expanding **Infin8 Arcade** as a fully free gaming destination for the Infin8
-  Apps website, with original games, persistent profiles, leaderboards,
-  progression, multiplayer lobbies, and community-driven repeat visits.
+- Advancing **FlowMyGosh** at [flowmygosh.infin8apps.com](https://flowmygosh.infin8apps.com)
+  with GOSH: hosted creator projects, lyric styling, mobile positioning, media
+  previews and authenticated workstation rendering while wider access is gated.
+- Expanding **Infin8 Arcade** with IceFishin and Sleddin physics, touch controls,
+  camera views, trick and Snocross systems, education games, verified results
+  where supported, and clearly labelled development-stage multiplayer.
 - Advancing **Infin8 Assistant** and Fin as the coordinating local AI, voice,
   business, support, and operations platform for the wider Infin8 Apps family.
 - Building **Infin8 Hosting & Web Services** around responsive web design,
