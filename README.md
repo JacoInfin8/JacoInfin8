@@ -104,7 +104,7 @@ connected-service features vary by account, permissions and runtime readiness.
   </a>
 </p>
 
-**Accentu8It (formerly FlowMyGosh), powered by Infin8 Apps, turns a song and
+**Accentu8It, powered by Infin8 Apps, turns a song and
 your own clips and images into a finished lyric video, right in the browser.** It is the Virtual Creator Studio from Infin8 Apps,
 built with **GOSH**, the AI music group, music channel and creation platform led
 by its main artists and promoters, Joshua and Princess Gillian.
