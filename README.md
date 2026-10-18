@@ -90,22 +90,22 @@ chat assistance and bounded support interactions; the separate local Control Pan
 handles approved voice, coding, private project and deployment operations. AI and
 connected-service features vary by account, permissions and runtime readiness.
 
-### FlowMyGosh — Virtual Creator Studio
+### Infin8 Accentu8It — Virtual Creator Studio
 
 <p align="center">
   <a href="https://flowmygosh.infin8apps.com">
-    <img src="assets/FlowMyGosh-studio.webp" alt="FlowMyGosh Creator Studio: lyric-style presets, workspace and creation bar" width="100%">
+    <img src="assets/FlowMyGosh-studio.webp" alt="Accentu8It Creator Studio: lyric-style presets, workspace and creation bar" width="100%">
   </a>
 </p>
 
 <p align="center">
   <a href="https://flowmygosh.infin8apps.com">
-    <img src="assets/FlowMyGosh-landing.webp" alt="FlowMyGosh sign-in page: make the video your song deserves, with Infin8 Apps Google sign-in" width="100%">
+    <img src="assets/FlowMyGosh-landing.webp" alt="Accentu8It sign-in page: make the video your song deserves, with Infin8 Apps Google sign-in" width="100%">
   </a>
 </p>
 
-**FlowMyGosh turns a song and your own clips and images into a finished lyric
-video, right in the browser.** It is the Virtual Creator Studio from Infin8 Apps,
+**Accentu8It (formerly FlowMyGosh), powered by Infin8 Apps, turns a song and
+your own clips and images into a finished lyric video, right in the browser.** It is the Virtual Creator Studio from Infin8 Apps,
 built with **GOSH**, the AI music group, music channel and creation platform led
 by its main artists and promoters, Joshua and Princess Gillian.
 
@@ -114,13 +114,13 @@ by its main artists and promoters, Joshua and Princess Gillian.
   with workspace media, editing controls and render workflows.
 - Lyric positioning, scene previews and mobile editing are in active refinement;
   assisted scene direction and automated rendering remain release-gated.
-- FlowMyGosh has its own hosted accounts and project experience, with an
+- Accentu8It has its own hosted accounts and project experience, with an
   authenticated private rendering host. Free and paid rendering plans remain
   subject to the product's live rollout and access rules; availability must be
   verified in the hosted app, not inferred from development previews.
 
 <p align="center">
-  <strong><a href="https://flowmygosh.infin8apps.com">▶ Open FlowMyGosh — early access</a></strong>
+  <strong><a href="https://flowmygosh.infin8apps.com">▶ Open Accentu8It — early access</a></strong>
 </p>
 
 ### Infin8 Arcade — free browser gaming, leaderboards, and multiplayer
@@ -302,7 +302,7 @@ service.
 Current web hosting uses Cloudflare, with local processing for creative workloads.
 
 Current web work includes the Infin8 Apps product site, Infin8 Arcade, the
-FlowMyGosh creator studio, support and account experiences, and the foundations
+Accentu8It creator studio, support and account experiences, and the foundations
 for hosted web applications that connect to real product data. Web design and
 management are treated as a continuing relationship: understand the existing
 site, preserve what works, improve it deliberately, and keep future updates
@@ -439,7 +439,7 @@ bounded retention, and human control over how detections are stored or used.
 
 ## What I'm building now
 
-- Advancing **FlowMyGosh** at [flowmygosh.infin8apps.com](https://flowmygosh.infin8apps.com)
+- Advancing **Accentu8It** at [flowmygosh.infin8apps.com](https://flowmygosh.infin8apps.com)
   with GOSH: hosted creator projects, lyric styling, mobile positioning, media
   previews and authenticated workstation rendering while wider access is gated.
 - Expanding **Infin8 Arcade** with IceFishin and Sleddin physics, touch controls,
