@@ -93,34 +93,28 @@ connected-service features vary by account, permissions and runtime readiness.
 ### Infin8 Accentu8It — Virtual Creator Studio
 
 <p align="center">
-  <a href="https://flowmygosh.infin8apps.com">
-    <img src="assets/FlowMyGosh-studio.webp" alt="Accentu8It Creator Studio: lyric-style presets, workspace and creation bar" width="100%">
+  <a href="https://accentu8.infin8apps.com">
+    <img src="assets/Accentu8It-studio.webp" alt="Infin8 Accentu8It creator workspace and video production interface" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://flowmygosh.infin8apps.com">
-    <img src="assets/FlowMyGosh-landing.webp" alt="Accentu8It sign-in page: make the video your song deserves, with Infin8 Apps Google sign-in" width="100%">
+  <a href="https://accentu8.infin8apps.com">
+    <img src="assets/Accentu8It-landing.webp" alt="Infin8 Accentu8It creator studio sign-in experience" width="100%">
   </a>
 </p>
 
-**Accentu8It, powered by Infin8 Apps, turns a song and
-your own clips and images into a finished lyric video, right in the browser.** It is the Virtual Creator Studio from Infin8 Apps,
-built with **GOSH**, the AI music group, music channel and creation platform led
-by its main artists and promoters, Joshua and Princess Gillian.
+**Infin8 Accentu8It is the Infin8 Apps-owned creator studio:** a website for music, image, scene, lyric and video creation. Its current high-performance compute backend runs on a dedicated **Windows development workstation** through secured Cloudflare One, Zero Trust and Tunnel infrastructure. It is not currently a Linux VM or a macOS product. A dedicated rendering server is planned for a future hardware upgrade.
 
-- One asset library shared by every project, with songs, clips and images.
-- Animated lyric styles and reusable presets for horizontal and vertical music videos,
-  with workspace media, editing controls and render workflows.
-- Lyric positioning, scene previews and mobile editing are in active refinement;
-  assisted scene direction and automated rendering remain release-gated.
-- Accentu8It has its own hosted accounts and project experience, with an
-  authenticated private rendering host. Free and paid rendering plans remain
-  subject to the product's live rollout and access rules; availability must be
-  verified in the hosted app, not inferred from development previews.
+The Studio brings together lyric editing, scene planning, model-assisted generation, local GPU processing, controlled FFmpeg/Chromium rendering, project review, group workspaces, and a social Hub. Finished media and recovery records use verified Google Drive workflows with a constrained business allocation; the workstation is used for short-lived processing and temporary runtime data, not uncontrolled permanent storage.
+
+- **Owner-verified access:** every new Google account requires Infin8 Apps approval. Accounts start in Free Community; only an owner may assign higher tiers until public subscriptions open.
+- **Personal AI credentials:** approved accounts can supply encrypted personal provider keys at their own expense, without unlocking platform-funded generation.
+- **Creator operations:** owner-controlled storage and final-export limits, shared spaces, project media and download workflows, and Hub publishing with rights and download confirmation.
+- **Media safeguards:** preview/review and final production are separately gated, and deletion is designed to require authoritative references and verified backups.
 
 <p align="center">
-  <strong><a href="https://flowmygosh.infin8apps.com">▶ Open Accentu8It — early access</a></strong>
+  <strong><a href="https://accentu8.infin8apps.com">▶ Open Infin8 Accentu8It — owner-approved access</a></strong>
 </p>
 
 ### Infin8 Arcade — free browser gaming, leaderboards, and multiplayer
@@ -167,10 +161,7 @@ Current games include:
 - **Infin8 IceFishin** — build a persistent ice-fishing career, catch and inventory
   species, upgrade winter gear and carry signed-in progression across devices;
   Snocross systems are evolving alongside the shared snowmobile physics.
-- **Infin8 Sleddin** — a Canadian-inspired 3D snowmobile playground with four
-  regional tracks, freestyle tricks, eight-gate Snocross lap racing, camera
-  views (hood, chase, far, high), and keyboard, controller and touch input.
-  Racing and trick systems are still being refined and verified on devices.
+- **Infin8 Sleddin** — an evolving Canadian-inspired Three.js snowmobile game with six regional terrain selections, touch/controller/keyboard control parity, Snocross racing, air-only freestyle tricks and camera modes. Terrain art, map-selection accessibility, handling and ground contact are under active iteration.
 
 **Infin8 Education**
 
@@ -299,7 +290,7 @@ support. The work is intended for creators, small businesses, communities, and
 product teams that need a site designed, launched, and looked after as one
 service.
 
-Current web hosting uses Cloudflare, with local processing for creative workloads.
+Current web hosting uses Cloudflare Workers, Zero Trust and an authenticated Cloudflare Tunnel, with Windows workstation processing for creative workloads and verified Google Drive archiving for long-lived outputs.
 
 Current web work includes the Infin8 Apps product site, Infin8 Arcade, the
 Accentu8It creator studio, support and account experiences, and the foundations
@@ -439,9 +430,13 @@ bounded retention, and human control over how detections are stored or used.
 
 ## What I'm building now
 
-- Advancing **Accentu8It** at [flowmygosh.infin8apps.com](https://flowmygosh.infin8apps.com)
-  with GOSH: hosted creator projects, lyric styling, mobile positioning, media
-  previews and authenticated workstation rendering while wider access is gated.
+- Building **Infin8 Accentu8It** at [accentu8.infin8apps.com](https://accentu8.infin8apps.com):
+  a creator-facing website with Windows-hosted GPU rendering, owner-approved
+  access, encrypted personal API keys, quota-aware media workflows, shared
+  projects, Google Drive retention and a moderated creator Hub.
+- Consolidating all customer-facing applications and documentation under the
+  **Infin8 Apps** brand, while keeping legacy internal integration identifiers
+  stable until their migration can be tested.
 - Expanding **Infin8 Arcade** with IceFishin and Sleddin physics, touch controls,
   camera views, trick and Snocross systems, education games, verified results
   where supported, and clearly labelled development-stage multiplayer.
@@ -465,6 +460,25 @@ bounded retention, and human control over how detections are stored or used.
   work-system, and security applications.
 - Turning specialized creative workflows into understandable, repeatable,
   validated Windows products.
+
+## Infin8 Apps operations collaboration
+
+The Infin8 Apps ecosystem also includes **[Nixy](https://github.com/enicksy7)**,
+currently operating as **@enicksy7** on GitHub and planning the profile name
+**NixyInfin8**. Nixy serves as an **Infin8 Apps Operations Manager and active
+development collaborator**, with a focus on Arcade game development,
+community management, Discord operations, website support systems, day-to-day
+deployment coordination and brand/design production. He is also
+**Accentu8It Co-Owner** in the business's creator-platform operations.
+
+His work includes text- and voice-directed AI development workflows,
+technical planning, visual assets, integrations, testing, maintenance and
+iterative game/site upgrades. Repo and deployment permissions are granted
+separately; an operations title is not a claim that every repository or
+Cloudflare credential has already been shared.
+
+A shorter, Infin8-branded profile is prepared for his own account in
+[Nixy's GitHub README handoff](NIXY-GITHUB-PROFILE-README.md).
 
 ## Portfolio access
 
