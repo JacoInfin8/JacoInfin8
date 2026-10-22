@@ -1,510 +1,92 @@
 <div align="center">
 
-<p>
-  <img src="assets/infin8-apps-poster.webp" alt="Infin8 Apps brand" width="30%">
-  <img src="assets/infin8-apps-hero.webp" alt="Infin8 Apps local-first software and intelligent automation" width="68%">
-</p>
+<img src="assets/infin8-apps-hero.webp" alt="Infin8 Apps — software, audio, AI and games" width="100%">
 
-# Hi, I'm Jaco
+# Hey, I’m Jaco 👋
 
-### Product engineer · Local AI systems · Creative software · Web gaming
+**Developer • Product creator • Infin8 Apps**
 
-<p>
-  <a href="https://infin8apps.com">
-    <img src="assets/Infin8apps-website.webp" alt="Infin8 Apps product website showcasing the software portfolio" width="100%">
-  </a>
-</p>
+I create software, AI-powered tools, audio applications, and browser games — from the first idea through design and development.
 
-<p>
-  <strong><a href="https://infin8apps.com">Explore the Infin8 Apps ecosystem</a></strong><br>
-  Infin8 Assistant is now the primary platform for product direction, with Fin
-  as its interactive companion. Other software suites are now secondary and
-  integrated through this runtime where practical.
-  <br><strong><a href="https://infin8apps.com/games/">Play Infin8 Arcade — free in your browser</a></strong>
-</p>
+**[🌌 Infin8 Apps](https://infin8apps.com) · [🎮 Play Infin8 Arcade](https://infin8apps.com/games/) · [🎬 Accentu8It Studio](https://accentu8it.infin8apps.com)**
 
-I design local-first products that combine native performance, practical AI,
-thoughtful interfaces, real user control, and safe automation.
-
-[Featured work](#featured-work) · [Public portfolio report](ECOSYSTEM-PORTFOLIO-2026.md) ·
-[Skills](#skills-and-engineering-focus) · [Current focus](#what-im-building-now) · [Connect](#lets-connect)
+<a href="https://infin8apps.com"><img src="assets/Infin8apps-website.webp" alt="Explore the Infin8 Apps website" width="100%"></a>
 
 </div>
 
 ---
 
-## Building useful software from idea to validated product
+## What I’m building
 
-I build under **Infin8 Apps**, with hands-on ownership across product design,
-architecture, implementation, testing, packaging, and technical presentation.
-The current Infin8 Apps ecosystem is led by Infin8 Assistant for local work,
-business, and personal management; Infin8 Audio Chain with seven focused Audio
-products; focused
-Windows applications for creation and diagnostics; and Infin8 Arcade games
-with shared profiles, progression, controls, and leaderboards. Infin8 Hosting &
-Web Services now brings the same product thinking to web design, managed
-delivery, maintenance, and customer support.
+### 🎮 Infin8 Arcade
 
-The common goal is simple: turn technically difficult workflows into software
-that people can understand, control, and use on their own computers.
-
-| Area | What I build |
-| --- | --- |
-| **Local AI** | Private assistants, voice conversations, tool use, project knowledge, speech recognition, and local model orchestration. |
-| **AI video systems** | AI-assisted editing, format adaptation, timeline automation, YOLO detection/tracking, and locally optimized `.pt`, `.onnx`, and TensorRT `.engine` inference. |
-| **Realtime audio** | Native DSP, voice transformation, vocal production, pitch processing, MIDI, metering, and standalone/VST3 delivery. |
-| **Web gaming & community** | Free browser games, shared player profiles, score tracking, leaderboards, control profiles, progression, and multiplayer lobbies. |
-| **Windows products** | C++, Rust, Qt, Tauri, Electron, React, Python, WebView2, local services, packaging, and hardware-aware tools. |
-| **Hosting & web services** | Responsive web design, website reconstruction, managed hosting, secure deployment, content systems, support intake, and ongoing site management. |
-
-> **Open to:** product-engineering opportunities, technical collaboration,
-> private demonstrations, partnerships, and investment conversations.
-
-## Featured work
-
-### Infin8 Assistant — Local AI and Voice Workspace
+Original, free-to-play browser games — from arcade action and educational adventures to evolving 3D winter-world experiences.
 
 <p align="center">
-  <img src="assets/Infin8Assistant-main.webp" alt="Infin8 Assistant forward-facing interface with local AI workflow controls" width="100%">
+  <a href="https://infin8apps.com/games/"><img src="assets/Infin8Arcade-main.webp" alt="Infin8 Arcade" width="49%"></a>
+  <a href="https://infin8apps.com/games/"><img src="assets/Infin8Education-main.webp" alt="Infin8 Education games" width="49%"></a>
 </p>
 
-Infin8 Assistant is an internal desktop workspace in active development, combining AI, voice interaction and everyday productivity. It is not currently offered as a customer product. Fin is its visual voice and the coordinating intelligence for the wider Infin8 Apps family: he helps connect current product knowledge, business records, web services, games, creative tools, and support workflows through the Assistant's approved operations. The goal is a useful answer grounded in current information, with important actions kept visible and under the operator's control.
+**[Play the games →](https://infin8apps.com/games/)**
 
-#### Fin — the Infin8 Apps companion
+### 🎬 Accentu8It — Creator Studio
 
-Fin is being carried across the desktop, website, games, streaming tools, and
-customer support as one recognizable assistant. His refreshed 2026 character
-package is designed for clean high-resolution website artwork, green-screen
-compositing, responsive 2D animation, and a future full 3D game companion. The
-standard animation set covers idle, movement, waving, jumping, failure,
-waiting, active work, review, and directional looks. Animation and game
-integration remain in active development while the character, voice, and
-interaction contracts are brought into parity.
-
-The Assistant's knowledge layer is designed around current product records and
-searchable project information rather than a frozen brochure. Fin can use the
-most capable available reasoning route for a request, fall back to free or
-local models when needed, and keep private work on the local machine when the
-task requires it. The cloud-hosted Fin Assistant handles public Discord text commands, stream co-hosting,
-chat assistance and bounded support interactions; the separate local Control Panel
-handles approved voice, coding, private project and deployment operations. AI and
-connected-service features vary by account, permissions and runtime readiness.
-
-### Infin8 Accentu8It — Virtual Creator Studio
+A creative workspace for planning scenes, working with music and lyrics, and developing images and video. Creator access and some workflows remain in development.
 
 <p align="center">
-  <a href="https://accentu8.infin8apps.com">
-    <img src="assets/Accentu8It-studio.webp" alt="Infin8 Accentu8It creator workspace and video production interface" width="100%">
-  </a>
+  <a href="https://accentu8it.infin8apps.com"><img src="assets/Accentu8It-landing.webp" alt="Accentu8It creator studio landing" width="49%"></a>
+  <a href="https://accentu8it.infin8apps.com"><img src="assets/Accentu8It-studio.webp" alt="Accentu8It Studio interface" width="49%"></a>
 </p>
 
+**[Explore Accentu8It →](https://accentu8it.infin8apps.com)**
+
+### 🤖 Infin8 Assistant & Fin
+
+A local-first AI and voice workspace built around practical tools, creative workflows, and everyday operations. The desktop Assistant is an internal project in active development.
+
 <p align="center">
-  <a href="https://accentu8.infin8apps.com">
-    <img src="assets/Accentu8It-landing.webp" alt="Infin8 Accentu8It creator studio sign-in experience" width="100%">
-  </a>
+  <img src="assets/Infin8Assistant-main.webp" alt="Infin8 Assistant interface" width="100%">
 </p>
 
-**Infin8 Accentu8It is the Infin8 Apps-owned creator studio:** a website for music, image, scene, lyric and video creation. Its current high-performance compute backend runs on a dedicated **Windows development workstation** through secured Cloudflare One, Zero Trust and Tunnel infrastructure. It is not currently a Linux VM or a macOS product. A dedicated rendering server is planned for a future hardware upgrade.
+### 🎹 Infin8 Audio
 
-The Studio brings together lyric editing, scene planning, model-assisted generation, local GPU processing, controlled FFmpeg/Chromium rendering, project review, group workspaces, and a social Hub. Finished media and recovery records use verified Google Drive workflows with a constrained business allocation; the workstation is used for short-lived processing and temporary runtime data, not uncontrolled permanent storage.
-
-- **Owner-verified access:** every new Google account requires Infin8 Apps approval. Accounts start in Free Community; only an owner may assign higher tiers until public subscriptions open.
-- **Personal AI credentials:** approved accounts can supply encrypted personal provider keys at their own expense, without unlocking platform-funded generation.
-- **Creator operations:** owner-controlled storage and final-export limits, shared spaces, project media and download workflows, and Hub publishing with rights and download confirmation.
-- **Media safeguards:** preview/review and final production are separately gated, and deletion is designed to require authoritative references and verified backups.
+Creative audio tools covering synthesis, effects, tuning, vocal work, and realtime sound processing — designed around one connected Infin8 Audio ecosystem.
 
 <p align="center">
-  <strong><a href="https://accentu8.infin8apps.com">▶ Open Infin8 Accentu8It — owner-approved access</a></strong>
+  <img src="assets/Infin8Chain-main.webp" alt="Infin8 Audio Chain" width="49%">
+  <img src="assets/Infin8Synth-main.webp" alt="Infin8 Synth" width="49%">
+</p>
+<p align="center">
+  <img src="assets/Infin8Effects-main.webp" alt="Infin8 Effects" width="32%">
+  <img src="assets/Infin8Tune-main.webp" alt="Infin8 Tune" width="32%">
+  <img src="assets/Infin8Vox-main.webp" alt="Infin8 Vox" width="32%">
 </p>
 
-### Infin8 Arcade — free browser gaming, leaderboards, and multiplayer
+### 🖥️ Creative and desktop applications
+
+Design, editing, performance optimization, and diagnostic software developed as part of the wider Infin8 Apps collection.
 
 <p align="center">
-  <a href="https://infin8apps.com/games/">
-    <img src="assets/Infin8Arcade-main.webp" alt="Infin8 Arcade free browser game library" width="100%">
-  </a>
+  <img src="assets/Infin8Editor-main.webp" alt="Infin8 Editor" width="49%">
+  <img src="assets/Infin8Design-main.webp" alt="Infin8 Design" width="49%">
 </p>
-
 <p align="center">
-  <a href="https://infin8apps.com/games/">
-    <img src="assets/Infin8Education-main.webp" alt="Infin8 Education game library featuring Forest Finder, Fur Finder, and Fish Finder" width="100%">
-  </a>
-</p>
-
-**Infin8 Arcade is the community and discovery layer of the Infin8 Apps website:**
-a growing collection of original games that are free to play directly in the
-browser, designed to bring players back through progression, competition, and
-multiplayer while introducing more people to the wider Infin8 Apps ecosystem.
-
-The Arcade combines shared player profiles, cross-device progression, customizable
-controls, per-game leaderboards, player cards and multiplayer foundations.
-**Result verification varies by game:** some browser-only scores are explicitly
-unverified until a server-authoritative adapter is implemented. Live multiplayer
-availability is game-specific and must be tested, not assumed from UI presence.
-
-Current games include:
-
-**Infin8 Arcade**
-
-- **Infin8 Sk8er** — ride ten progressively longer themed terrain builds with
-  long rails and ledges, manuals, forgiving combo continuation, wide landing
-  zones, rare forced hazards, and optional high-line energy rings.
-- **LoneWolfanCub** — an anime-inspired 2D side-scroll shooter/adventure with
-  LoneWolf, giant-transforming Cub, and Chimmy across ten regions, timed level
-  weapons, a different boss in every region, XP, and campaign progression.
-- **Infin8 Brawler** — fight through a ten-arena Street Run with distinct
-  terrain, crew archetypes, hazards, wrestling-style grapples, combo pressure,
-  bosses, finishers, and profile-gated live Versus lobbies.
-- **Infin8 Exploder** — swap and match bright symbols to trigger chain
-  explosions across ten escalating puzzle levels with stricter time windows,
-  deeper cascade pressure, and full and per-level leaderboards.
-- **Infin8 IceFishin** — build a persistent ice-fishing career, catch and inventory
-  species, upgrade winter gear and carry signed-in progression across devices;
-  Snocross systems are evolving alongside the shared snowmobile physics.
-- **Infin8 Sleddin** — an evolving Canadian-inspired Three.js snowmobile game with six regional terrain selections, touch/controller/keyboard control parity, Snocross racing, air-only freestyle tricks and camera modes. Terrain art, map-selection accessibility, handling and ground contact are under active iteration.
-
-**Infin8 Education**
-
-- **Infin8 Forest Finder** — identify plants from their names and field hints
-  across ten global regions, then complete bonus gathering rounds that build
-  real objects from real materials.
-- **Infin8 Fur Finder** — identify geographically correct wild mammals, learn
-  their field marks, and complete wildlife history and conservation archive
-  rounds.
-- **Infin8 Fish Finder** — identify geographically correct aquatic animals
-  across ten freshwater and marine regions, then complete conservation archive
-  rounds.
-
-<p align="center">
-  <strong><a href="https://infin8apps.com/games/">▶ Play Infin8 Arcade free</a></strong>
-</p>
-
-### Infin8 Audio — one controlling Chain and seven focused products
-
-Infin8 Audio Chain is the top-level standalone control surface for the complete
-Audio system. It owns audio and MIDI devices once, hosts all seven product engines
-across serial, parallel, generator, and analyzer paths, coordinates tempo and
-safe monitoring, and records the compensated master. It is included in the
-Infin8 Audio tier and can open each product's full interface without giving up
-control of the running session.
-
-<p align="center">
-  <img src="assets/Infin8Chain-main.webp" alt="Infin8 Audio Chain controlling the seven Infin8 Audio product engines" width="100%">
-</p>
-
-The seven focused products use native realtime processing, embedded interfaces,
-persistent state, shared licensing, and repeatable standalone/VST3 packaging.
-Infin8 Voice Mod is the standalone voice-transformation workspace; the other
-six products also ship as VST3 plugins.
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <img src="assets/Infin8Synth-main.webp" alt="Infin8 Synth synthesis and sampling interface" width="100%">
-      <h3>Infin8 Synth</h3>
-      <p><strong>Synthesis, chromatic sample playback, and tempo-aware performance in one instrument.</strong></p>
-      <p>Combines oscillators, filtering, envelopes, modulation, a playable keyboard,
-      and a selected-sample layer that follows the current session.</p>
-      <p><strong>Engineering:</strong> realtime C++ DSP, iPlug2, WebView2,
-      MIDI, host tempo, automation, persistent state, and standalone/VST3 delivery.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <img src="assets/Infin8MicPre-main.webp" alt="Infin8 MicPre vocal production interface" width="100%">
-      <h3>Infin8 MicPre</h3>
-      <p><strong>A complete vocal front end in one workspace.</strong></p>
-      <p>Combines gain staging, cleanup, dynamics, tone shaping, output safety,
-      vocal effects, parametric EQ, and a performance soundboard for music,
-      streaming, podcasting, and voiceover.</p>
-      <p><strong>Engineering:</strong> realtime C++ DSP, iPlug2, WebView2,
-      MIDI, metering, host automation, preset state, licensing, and
-      standalone/VST3 delivery.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <img src="assets/Infin8Tune-main.webp" alt="Infin8 Tune realtime vocal correction interface" width="100%">
-      <h3>Infin8 Tune</h3>
-      <p><strong>Realtime vocal correction with musical control.</strong></p>
-      <p>Provides key-and-scale targeting, correction character, pitch-motion
-      controls, live tracking feedback, vocal effects, and flexible monitoring
-      for performance and studio use.</p>
-      <p><strong>Engineering:</strong> realtime pitch analysis and correction,
-      C++ DSP, iPlug2, WebView2, automation, metering, preset recall, and
-      standalone/VST3 delivery.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <img src="assets/Infin8Effects-main.webp" alt="Infin8 Effects sound-processing interface" width="100%">
-      <h3>Infin8 Effects</h3>
-      <p><strong>Sculpt, move, and finish sound in one effects environment.</strong></p>
-      <p>Brings dynamics, saturation, limiting, modulation, space, delay, and
-      an eight-band parametric EQ into a clear creative signal chain.</p>
-      <p><strong>Engineering:</strong> modular realtime C++ DSP, iPlug2,
-      WebView2, host automation, visual metering, preset serialization, and
-      standalone/VST3 delivery.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <img src="assets/Infin8Amp-main.webp" alt="Infin8 Amp guitar and instrument processing interface" width="100%">
-      <h3>Infin8 Amp</h3>
-      <p>Infin8 Amp combines amplifier voicings, cabinets and microphone responses, pedals, local cabinet IR loading, modulation, delay, reverb, EQ, and tuning. It works as a standalone application, VST3 effect, or Infin8 Audio Chain node.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <img src="assets/Infin8VoiceMod-main.webp" alt="Infin8 Voice Mod realtime voice transformation interface" width="100%">
-      <h3>Infin8 Voice Mod</h3>
-      <p><strong>Realtime voice transformation with a complete local workflow.</strong></p>
-      <p>Turns trained voice packages into a usable production system with
-      voice-library management, conversion controls, device routing, presets,
-      runtime configuration, telemetry, and assisted model training.</p>
-      <p><strong>Engineering:</strong> native C++ host, iPlug2, WebView2, RVC,
-      PyTorch and ONNX runtimes, GPU profiles, device fallback, content
-      packaging, and shared licensing.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <img src="assets/Infin8Vox-main.webp" alt="Infin8 Vox voice tracking to MIDI interface" width="100%">
-      <h3>Infin8 Vox</h3>
-      <p><strong>Turn singing and humming into playable MIDI expression.</strong></p>
-      <p>Tracks voice pitch inside a defined note range and routes the result to a
-      selected MIDI channel for instruments, production, and live workflows.</p>
-      <p><strong>Engineering:</strong> realtime pitch detection, MIDI generation,
-      C++ DSP, iPlug2, WebView2, host tempo, and standalone/VST3 delivery.</p>
-    </td>
-  </tr>
-</table>
-
-### Infin8 Hosting & Web Services
-
-Infin8 Hosting & Web Services is the web-facing delivery practice behind the
-Infin8 Apps sites and customer projects. It combines responsive web design,
-faithful reconstruction of existing sites, content and media management,
-managed hosting, secure release workflows, performance care, and ongoing
-support. The work is intended for creators, small businesses, communities, and
-product teams that need a site designed, launched, and looked after as one
-service.
-
-Current web hosting uses Cloudflare Workers, Zero Trust and an authenticated Cloudflare Tunnel, with Windows workstation processing for creative workloads and verified Google Drive archiving for long-lived outputs.
-
-Current web work includes the Infin8 Apps product site, Infin8 Arcade, the
-Accentu8It creator studio, support and account experiences, and the foundations
-for hosted web applications that connect to real product data. Web design and
-management are treated as a continuing relationship: understand the existing
-site, preserve what works, improve it deliberately, and keep future updates
-reviewable and maintainable.
-
-### Developed Infin8 Apps products
-
-<table>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
-      <img src="assets/Infin8Editor-main.webp" alt="Infin8 Editor local-first AI video editing studio" width="100%">
-      <h3>Infin8 Editor — AI-Assisted Video Creation Studio</h3>
-      <p><strong>Create, adapt, and finish widescreen and social video from one
-      local-first editing workspace.</strong></p>
-      <p>Infin8 Editor combines a multitrack timeline, video and Premiere
-      project import, smart media relinking, captions, titles, looks, audio
-      controls, live preview, project persistence, and H.264 export. Canvas
-      presets support 16:9 widescreen, portrait shorts, vertical reels, square
-      posts, lyric videos, music videos, and promotional content.</p>
-      <p>Its AI layer can use local Ollama or an optional OpenAI connection to
-      plan first cuts and apply validated, undoable timeline commands. Imported
-      Premiere projects are never overwritten and generated code is never
-      executed.</p>
-      <p><strong>Built with:</strong> Electron, React, TypeScript, Remotion,
-      Mediabunny, Ollama, optional OpenAI assistance, Premiere migration,
-      sandboxed media handling, and deterministic rendering.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
-      <img src="assets/Infin8Design-main.webp" alt="Infin8 Design visual website reconstruction workspace" width="100%">
-      <h3>Infin8 Design — Visual Website Reconstruction Studio</h3>
-      <p><strong>Open real website folders, preserve their design, and evolve
-      them through a controlled local editing workflow.</strong></p>
-      <p>Infin8 Design loads existing website repositories as editable
-      digital twins while preserving hierarchy, CSS, media, fonts, responsive
-      rules, navigation, and filenames. Direct selection, movement, resizing,
-      keyboard text editing, exact property controls, preview, backup,
-      validation, source saving, and deployment export share one authoritative
-      document state.</p>
-      <p><strong>Built with:</strong> Tauri, Rust, React, TypeScript, HTML/CSS
-      project analysis, component modelling, responsive preview, local
-      filesystem access, automated quality gates, and standalone Windows
-      packaging.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
-      <img src="assets/Infin8Optimizer-main.webp" alt="Infin8 Optimizer Windows performance and diagnostics dashboard" width="100%">
-      <h3>Infin8 Optimizer — Windows Performance and Diagnostics</h3>
-      <p><strong>Understand the PC, verify its condition, and make bounded
-      performance improvements from one native workspace.</strong></p>
-      <p>Infin8 Optimizer combines hardware visibility, diagnostics, guarded
-      cleanup, benchmarks, and guided optimization with clear evidence and
-      recovery boundaries.</p>
-      <p><strong>Built with:</strong> C++17, Qt 6, CMake, Windows APIs,
-      Direct3D 11, PowerShell, and repeatable validation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
-      <img src="assets/Infin8Sentinel-main.webp" alt="Infin8 Sentinel network and process intelligence dashboard" width="100%">
-      <h3>Infin8 Sentinel — Network and Process Intelligence</h3>
-      <p><strong>Explain local network activity, process ownership, protected
-      routes, stability, and security signals without inspecting private
-      payloads.</strong></p>
-      <p>Sentinel correlates throughput, ports, service purpose, network scope,
-      process and resource pressure, active local networks, adapter health,
-      DNS, and outbound routes. Findings remain plain-language, evidence-backed,
-      and careful not to present heuristics as proof of malicious activity.</p>
-      <p><strong>Built with:</strong> Python, psutil, PySide6 Essentials through
-      its free open-source license route, IPv4/IPv6 analysis, protected-route
-      policy, threaded diagnostics, CLI/JSON integration, and automated tests.</p>
-    </td>
-  </tr>
-</table>
-
-
-## Skills and engineering focus
-
-| Focus | Practical experience |
-| --- | --- |
-| **Product engineering** | Product definition, UX, architecture, implementation, integration, testing, packaging, release workflows, and technical communication. |
-| **Local AI systems** | Ollama, llama.cpp, speech-to-text, text-to-speech, RVC voice conversion, model/runtime health checks, GPU profiles, local memory, and approval-gated tools. |
-| **AI video and computer vision** | Remotion-based video systems, MediaPipe, TensorFlow Lite, EfficientDet, YOLO detection/tracking, PyTorch tensor pipelines, CUDA acceleration, ONNX portability, and TensorRT deployment. |
-| **Realtime audio** | Modern C++, DSP, pitch analysis, MIDI, low-latency routing, metering, preset state, iPlug2, VST3, and standalone applications. |
-| **Desktop and web UI** | Qt 6, PySide6/PyQt6, Tauri, Rust, Electron, React, TypeScript, Vite, WebView2, and accessible operational interfaces. |
-| **Gaming & community systems** | Browser game architecture, shared profiles, score persistence, leaderboards, progression systems, multiplayer lobbies, and reusable control/game registries. |
-| **Windows integration** | Process and registry APIs, audio devices, GPU-aware workloads, local HTTP services, PowerShell automation, installers, and self-contained packaging. |
-| **Safe automation** | Human approval, source-copy workflows, undoable edits, paper modes, dry runs, bounded scans, validation gates, logs, and recoverable outputs. |
-
-Customer-facing Infin8 interfaces use an Infin8-owned design system with shared
-texture, transparency, accessibility, and operational-clarity rules. UI
-frameworks, themes, and component libraries must remain free to use for
-commercial Infin8 products; paid UI systems, subscriptions, royalties, trials,
-watermarks, revenue caps, and paid feature gates are not adopted.
-
-### Local AI-video model pipeline
-
-I have worked with Torch and PyTorch tensor pipelines, CUDA GPU acceleration,
-PyTorch `.pt` models, exported and integrated ONNX `.onnx` models, and created
-TensorRT `.engine` files optimized for the available local GPU hardware. These
-model formats support low-latency video programming and YOLO-based detection
-and tracking without requiring footage to leave the local machine.
-
-I apply the resulting detections as structured, reviewable data for product
-and inventory recognition, work-system records, operational analysis, and
-security-event review. The emphasis is on local processing, traceable results,
-bounded retention, and human control over how detections are stored or used.
-
-### Technology
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++17">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt 6">
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white" alt="YOLO">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
-</p>
-
-`Ollama` · `llama.cpp` · `Whisper` · `Kokoro` · `Torch tensors` · `PyTorch .pt` ·
-`CUDA` · `ONNX .onnx` · `TensorFlow Lite` · `TensorRT .engine` · `YOLO` ·
-`MediaPipe` · `EfficientDet` ·
-`CTranslate2` · `Demucs` · `RVC` · `Remotion` · `Mediabunny` ·
-`HTML/CSS project analysis` · `iPlug2` ·
-`VST3` · `WebView2` · `SQLite` · `CMake` · `PowerShell`
-
-## What I'm building now
-
-- Building **Infin8 Accentu8It** at [accentu8.infin8apps.com](https://accentu8.infin8apps.com):
-  a creator-facing website with Windows-hosted GPU rendering, owner-approved
-  access, encrypted personal API keys, quota-aware media workflows, shared
-  projects, Google Drive retention and a moderated creator Hub.
-- Consolidating all customer-facing applications and documentation under the
-  **Infin8 Apps** brand, while keeping legacy internal integration identifiers
-  stable until their migration can be tested.
-- Expanding **Infin8 Arcade** with IceFishin and Sleddin physics, touch controls,
-  camera views, trick and Snocross systems, education games, verified results
-  where supported, and clearly labelled development-stage multiplayer.
-- Advancing **Infin8 Assistant** and Fin as the coordinating local AI, voice,
-  business, support, and operations platform for the wider Infin8 Apps family.
-- Building **Infin8 Hosting & Web Services** around responsive web design,
-  managed hosting, secure delivery, performance, maintenance, and customer
-  support for Infin8 and partner projects.
-- Refreshing Fin's high-resolution 2D and future 3D character presentation,
-  including clean compositing artwork and a consistent nine-row animation set.
-- Advancing Infin8 Audio Chain as the top-level host for Synth, MicPre, Tune, Effects,
-  Amp, Voice Mod, and Vox.
-- Expanding Infin8 Editor across widescreen and social-video production.
-- Developing Infin8 Design for faithful visual editing of existing
-  websites, direct canvas controls, and controlled production export.
-- Developing Infin8 Sentinel into a plain-language network and process
-  intelligence hub for local networks, protected development/service routes,
-  stability, performance, and security review.
-- Expanding YOLO detection and tracking through locally built `.pt`, `.onnx`,
-  and hardware-optimized TensorRT `.engine` pipelines for video, inventory,
-  work-system, and security applications.
-- Turning specialized creative workflows into understandable, repeatable,
-  validated Windows products.
-
-## Infin8 Apps operations collaboration
-
-The Infin8 Apps ecosystem also includes **[Nixy](https://github.com/enicksy7)**,
-currently operating as **@enicksy7** on GitHub and planning the profile name
-**NixyInfin8**. Nixy serves as an **Infin8 Apps Operations Manager and active
-development collaborator**, with a focus on Arcade game development,
-community management, Discord operations, website support systems, day-to-day
-deployment coordination and brand/design production. He is also
-**Accentu8It Co-Owner** in the business's creator-platform operations.
-
-His work includes text- and voice-directed AI development workflows,
-technical planning, visual assets, integrations, testing, maintenance and
-iterative game/site upgrades. Repo and deployment permissions are granted
-separately; an operations title is not a claim that every repository or
-Cloudflare credential has already been shared.
-
-A shorter, Infin8-branded profile is prepared for his own account in
-[Nixy's GitHub README handoff](NIXY-GITHUB-PROFILE-README.md).
-
-## Portfolio access
-
-The product portfolio is maintained as a private presentation and technical
-review suite rather than a public source dump. For qualified employer, partner,
-or investor conversations, I can provide guided demonstrations, architecture
-walkthroughs, selected source review, and deeper product case studies.
-
-## Let's connect
-
-If you are building ambitious desktop software, local AI systems, creative
-tools, audio products, or intelligent automation, I would be glad to talk.
-
-<p align="center">
-  <a href="https://github.com/JacoInfin8">
-    <img src="https://img.shields.io/badge/GitHub-JacoInfin8-181717?style=for-the-badge&logo=github" alt="JacoInfin8 on GitHub">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Product demonstrations · Engineering opportunities · Partnerships · Investment</strong>
+  <img src="assets/Infin8Optimizer-main.webp" alt="Infin8 Optimizer" width="49%">
+  <img src="assets/Infin8Sentinel-main.webp" alt="Infin8 Sentinel" width="49%">
 </p>
 
 ---
 
-<p align="center">
-  Designed and engineered by <strong>JacoInfin8</strong><br>
-  Copyright © 2026 JacoInfin8. All rights reserved.
-</p>
+## About my work
+
+I enjoy combining **software engineering, visual design, AI, audio, and interactive experiences** into products people can actually use. Most of my work is hands-on and independently developed under **Infin8 Apps**.
+
+Interested in a collaboration, demo, or project? Visit **[infin8apps.com](https://infin8apps.com)** to explore the current products and ways to connect.
+
+<div align="center">
+
+<a href="https://infin8apps.com"><img src="assets/infin8-apps-poster.webp" alt="Infin8 Apps" width="45%"></a>
+
+**Built with creativity, curiosity, and a lot of code.**
+
+</div>
